@@ -1,0 +1,1021 @@
+,index,brand_name,model_name,price,rating,generation,number_of_cores,number_of_threads,RAM (in GB),Data_rate,hardware_type,SSD (in GB),Graphic_cards,resolution (in Pixels),touch_screen,display (in inches),OS,warranty
+0,0,HP,HP Victus 16-d0333TX Gaming Laptop ,58990,75.0,11th,6,12,16,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+1,1,HP,HP 15s-fq2717TU Laptop ,38980,60.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+2,2,Lenovo,Lenovo V15 82KDA01BIH Laptop ,31990,62.0,5th,4,8,8,DDR4,AMD Ryzen 3 5300U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+3,3,Asus,Asus Vivobook 16X 2022 M1603QA-MB502WS Laptop ,49990,65.0,5th,6,12,8,DDR4,AMD Ryzen 5 5600H,512.0,AMD Radeon Vega 7, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+4,4,Acer,Acer One 14 Z8-415 Laptop ,31990,60.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,‎Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+5,5,HP,HP Pavilion 15-eg3081TU Laptop ,76990,66.0,13th,12,16,16,DDR4,Intel Core i5 1340P,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+6,6,HP,HP Victus 15-fb0121AX Gaming Laptop ,54990,67.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+7,7,Asus,Asus Vivobook 15 2023 X1502VA-NJ541WS Laptop ,64990,62.0,13th,12,16,16,DDR4,Intel Core i5 13500H,512.0,Integrated Intel iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+8,8,Asus,Asus Vivobook 15 X1502ZA-EJ532WS Laptop ,51400,64.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+9,9,Lenovo,Lenovo E41-55 ‎82C700FNGE Laptop ,18595,,,2,2,4,,,1024.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+10,10,Apple,Apple MacBook Air 2020 MGND3HN Laptop ,79990,,,8,,8,DDR4,,256.0,Apple M1 Integrated Graphics, 2560 x 1600 ,No,13.3,Mac,1 Year Warranty
+11,11,MSI,MSI Stealth 16 Mercedes AMG Motorsport A13V Gaming Laptop ,292990,,13th,14,20,32,DDR5,Intel Core i9 13900H,1024.0,8 GB NVIDIA GeForce RTX 4070, 3840 x 2400 ,No,16,Windows 11,2 Year Warranty
+12,12,MSI,MSI Bravo 15 B5ED-035IN Gaming Laptop ,59990,72.0,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,512.0,4 GB AMD Radeon RX6500M, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+13,13,Asus,Asus TUF Gaming F15 2023 FX507ZV-LP094W Gaming Laptop ,115990,78.0,12th,14,20,16,DDR4,Intel Core i7 12700H,512.0,8 GB NVIDIA GeForce RTX 4060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+14,14,Acer,Acer One 14 Z8-415UN.599SI.009 Laptop ,29990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,256.0,‎Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+15,15,Dell,Dell Inspiron 3520 D560896WIN9B Laptop ,41490,60.0,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+16,16,Xiaomi,Xiaomi RedmiBook Pro 15 Laptop ,37990,60.0,11th,4,8,8,DDR4,Intel Core i5 11300H,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+17,17,Infinix,Infinix INBook Y1 Plus Neo XL30 Laptop ,26490,,11th,4,4,8,LPDDR4X,Intel Celeron N5100,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+18,18,HP,HP Victus 15-fb0106AX Gaming Laptop ,64990,72.0,5th,6,12,16,DDR4,AMD Ryzen 5 5600H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+19,19,Primebook,Primebook 4G Android Laptop ,16990,,,8,,4,LPDDR4,,64.0,ARM Mali G72, 1366 x 768 ,No,11.6,Android 11,1 Year Warranty
+20,20,HP,HP 15s-fq5111TU Laptop ,54990,61.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+21,21,Asus,Asus TUF Gaming A15 2022 FA577RE-HN055WS Gaming Laptop ,81990,79.0,6th,8,16,16,DDR5,AMD Ryzen 7 6800H,512.0,4 GB NVIDIA GeForce RTX 3050 Ti, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+22,22,Asus,Asus Vivobook 16X 2022 M1603QA-MB511WS Laptop ,53899,65.0,5th,6,12,16,DDR4,AMD Ryzen 5 5600H,512.0,AMD Radeon Vega 7 Graphics, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+23,23,Asus,Asus Vivobook 16X 2022 M1603QA-MB711WS Laptop ,59990,71.0,5th,8,16,16,DDR4,AMD Ryzen 7  5800H,512.0,AMD Radeon Vega 7, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+24,24,HP,HP 247 G8 67U77PA Laptop ,23390,,,,,8,DDR4,,1024.0,,,No,,Linux,
+25,25,HP,HP 15-fc0028AU Laptop ,46990,,7th,4,8,8,LPDDR5,AMD Ryzen 5 7520U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+26,26,HP,HP 247 G8 ‎6B5R3PA Laptop ,26999,,5th,4,8,8,DDR4,AMD Ryzen 3  5300U,512.0,AMD Radeon Graphics, 1366 x 768 ,No,14,DOS,1 Year Warranty
+27,27,Apple,Apple MacBook Air 2022 Laptop ,107990,,,8,,8,DDR4,,256.0,8-Core GPU, 2560 x 1664 ,No,13.6,Mac,1 Year Warranty
+28,28,Asus,Asus Vivobook 16X 2023 K3605VC-MB951WS Laptop ,109990,76.0,13th,14,20,16,DDR4,Intel Core i9 13900H,1024.0,4 GB NVIDIA Geforce RTX 3050 , 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+29,29,HP,HP 15-eg3036TU Laptop ,89800,69.0,13th,12,16,16,DDR4,Intel Core i7 1360P,1024.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+30,30,HP,HP Victus 15-fa1066TX Gaming Laptop ,112990,71.0,13th,14,20,16,DDR4,Intel Core i7 13700H,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+31,31,MSI,MSI Modern 14 C11M-031IN Laptop ,34990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+32,32,Xiaomi,Xiaomi Redmi Book 14 2023 Laptop ,43990,,12th,12,16,8,DDR5,Intel Core i5 12500H,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+33,33,HP,HP Victus 15-fb0777AX Gaming Laptop ,56990,67.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB AMD Radeon RX 6500M Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+34,34,Samsung,Samsung Galaxy Book 3 Laptop ,69990,,13th,12,16,8,LPDDR5,Intel Core i5 1340P,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+35,35,Dell,Dell Inspiron 3520 Laptop ,57490,,12th,10,12,8,DDR4,Intel Core i5 1235U,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,15.6,Windows 11,
+36,36,Lenovo,Lenovo Legion 5 82RB00K8IN Laptop ,119990,80.0,12th,14,20,16,DDR5,Intel Core i7 12700H,512.0,6 GB NVIDIA GeForce RTX 3060, 2560 x 1600 ,No,15.6,Windows 11,1 Year Warranty
+37,37,Acer,Acer Aspire 5 A515-57G UN.K9TSI.002 Gaming Laptop ,61750,68.0,12th,12,16,16,DDR4,Intel Core i5 1240P,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+38,38,HP,HP 15s-eq2144au Laptop ,43990,60.0,5th,6,12,8,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+39,39,Dell,Dell Inspiron 3511 Laptop ,38990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.56,Windows 11,1 Year Warranty
+40,40,Dell,Dell Precision 5550 Laptop ,184999,70.0,10th,6,12,16,DDR4,Intel Core i7 10750H,512.0,4 GB NVIDIA , 1920 x 1200 ,No,15.6,Windows 10,
+41,41,Dell,Dell Inspiron 5430 IN5430YXVW9M01ORS1 Laptop ,66982,,13th,10,12,8,LPDDR5,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+42,42,Infinix,Infinix INBook X2 Slim Series Laptop ,27990,,11th,2,4,8,LPDDR4X,Intel Core i3  1115G4,256.0,Intel Integrated UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+43,43,Asus,Asus ROG Flow Z13-ACRNM RMT02 GZ301VIC-MU004WS Gaming Laptop ,284990,79.0,13th,14,20,32,LPDDR5,Intel Core i9 13900H,1024.0,8 GB NVIDIA GeForce RTX 4070, 2560 x 1600 ,Yes,13.4,Windows 11,1 Year Warranty
+44,44,Asus,Asus ROG Strix G16 2023 G614JV-N4141WS Gaming Laptop ,179990,77.0,13th,24,32,16,DDR5,Intel Core i9 13980HX,1024.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+45,45,HP,HP 247 G8 796Y6PA Laptop ,20999,,3rd,2,2,8,DDR4,AMD Athlon Silver 3050U,256.0,AMD Radeon graphics, 1366 x 768 ,No,14,DOS,1 Year Warranty
+46,46,MSI,MSI GF63 Thin 11UC-1294IN Gaming Laptop ,71990,76.0,11th,8,16,16,DDR4,Intel Core i7 11800H,1024.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,
+47,47,Acer,Acer One 14 Z8-415 Laptop ,44990,,11th,4,8,8,DDR4,Intel Core i5  1135G7,512.0,‎Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+48,48,Asus,Asus Vivobook 16 2023 X1605VA-MB541WS Laptop ,64990,62.0,13th,12,16,16,DDR4,Intel Core i5 13500H,512.0,Integrated Intel Iris Xe Graphics, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+49,49,Asus,Asus Vivobook S15 OLED 2023 S5504VA-MA953WS Laptop ,109950,71.0,13th,14,20,16,LPDDR5,Intel Core i9 13900H,1024.0,Intel Integrated Iris Xe, 2880 x 1620 ,No,15.6,Windows 11,1 Year Warranty
+50,50,Honor,Honor MagicBook X14 2023 ‎FRI-F56 Laptop ,54990,66.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,Intel UHD Graphics, 1920 x 1200 ,No,14,Windows 11,1 Year Warranty
+51,51,HP,HP Victus 15-fb0131AX Gaming Laptop ,54990,65.0,5th,6,12,8,DDR4,AMD Ryzen 5 5600H,512.0,4 GB AMD Radeon RX 5600M , 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+52,52,HP,HP Victus 15-fb0133AX Gaming Laptop ,58990,67.0,5th,6,12,16,DDR4,AMD Ryzen 5 5600H,512.0,4 GB AMD Radeon RX 5600M , 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+53,53,Acer,Acer Aspire 3 A315-59 NX.K6TSI.00C Laptop ,39990,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Iris Xe Graphics , 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+54,54,HP,HP Victus 15-fa0555TX  Laptop ,76900,71.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+55,55,HP,HP Pavilion x360 14-ek1010TU Laptop ,79490,70.0,13th,10,12,16,DDR4,Intel Core i5 1335U,1024.0,Intel Integrated Iris Xe, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+56,56,MSI,MSI Titan GT77 HX 13VI-092IN Gaming Laptop ,599990,,13th,24,32,64,DDR5,Intel Core i9 13980HX,4096.0,16 GB NVIDIA GeForce RTX 4090, 3840 x 2160 ,No,17.3,Windows 11,2 Year Warranty
+57,57,Lenovo,Lenovo IdeaPad  82K2022TIN Gaming Laptop ,53990,70.0,5th,6,12,8,DDR4,AMD Ryzen 5 5600H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+58,58,Asus,Asus Eeebook 15 E510MA-EJ021WS Laptop ,28990,,,2,2,8,DDR4,,512.0,Intel UHD Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+59,59,HP,HP 15s-fr4000TU Laptop ,52990,62.0,11th,4,8,8,DDR4,Intel Core i5 1155G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+60,60,Dell,Dell G15-5520 Gaming Laptop ,71490,74.0,12th,12,16,8,DDR5,Intel Core i5 12500H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+61,61,Lenovo,Lenovo IdeaPad Slim 3 82RJ0040IN Laptop ,41990,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,‎Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+62,62,Infinix,Infinix INBook X2 Plus XL25 Laptop ,38990,,11th,4,8,8,LPDDR4X,Intel Core i5 1155G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+63,63,Asus,Asus TUF Gaming A15 FA506IHRZ-HN111W Laptop ,59990,67.0,4th,6,12,8,DDR4,AMD Ryzen 5 4600H,512.0,4 GB NVIDIA GeForce GTX 1650 , 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+64,64,Acer,Acer Aspire 3 A315-59 Laptop ,37700,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Iris Xe Graphics , 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+65,65,HP,HP Victus 15-fb0040AX Gaming Laptop ,59490,67.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+66,66,Apple,Apple MacBook Pro 2022 Laptop ,134990,,,8,,8,,,512.0,10 Core GPU, 2560 x 1600 ,No,13.3,Mac,1 Year Warranty
+67,67,HP,HP 14s-fq1092au Laptop ,44990,64.0,5th,6,12,8,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+68,68,Realme,Realme Book Slim Laptop ,47999,60.0,11th,4,8,8,LPDDR4x,Intel Core i5 1135G7,512.0,Intel Iris Xe Graphics, 1440 x 2160 ,No,14,Windows 10,1 Year Warranty
+69,69,Infinix,Infinix INBook X2 Slim Series Laptop ,31990,,11th,2,4,8,LPDDR4X,Intel Core i3  1115G4,512.0,Intel Integrated UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+70,70,Infinix,Infinix INBook X2 Slim Series XL23 Laptop ,48990,,11th,4,8,16,LPDDR4X,Intel Core i7 1195G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+71,71,Infinix,Infinix INBook X2 Slim Series XL23 Laptop ,36990,,11th,4,8,16,LPDDR4X,Intel Core i5 1155G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+72,72,HP,HP 14-ep0068TU Laptop  ,47990,,13th,8,8,8,DDR4,Intel Core i3 N305,512.0,Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+73,73,Lenovo,Lenovo Legion 5 Pro 2023 Gaming Laptop ,172990,78.0,12th,14,20,32,DDR5,Intel Core i7 13700H,1024.0,16 GB NVIDIA GeForce RTX 4090, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+74,74,Dell,Dell Inspiron 3520 D560872WIN9S Laptop ,68601,62.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+75,75,Dell,Dell Inspiron 5430 IN54304D6P9M01ORS1 Laptop ,85820,,13th,10,12,16,LPDDR5,Intel Core i7 1355U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+76,76,Dell,Dell Inspiron 5430 IN54308TR2G001ORS1 Laptop ,76399,,13th,10,12,16,LPDDR5,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+77,77,Asus,Asus TUF Gaming A15 FA577NU-LP082W Gaming Laptop ,105990,77.0,7th,8,16,16,DDR5,AMD Ryzen 7 7735HS,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+78,78,Asus,Asus VivoBook 14 X415EA-EK344WS Notebook ,42990,64.0,11th,2,4,16,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated Intel UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+79,79,Acer,Acer Predator Helios Neo 16 PHN16-71 2023 Gaming Laptop ,149990,76.0,13th,16,24,16,DDR5,Intel Core i7 13700HX,1024.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 600 ,No,16,Windows 11,1 Year Warranty
+80,80,HP,HP 15s-fy5003TU Laptop ,40990,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+81,81,HP,HP Victus 15-fb0122AX Gaming Laptop ,55490,67.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+82,82,HP,HP 15-fd0011TU Laptop ,59990,,13th,10,12,8,DDR4,Intel Core i5 1335U,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+83,83,Asus,Asus Vivobook Pro 16 OLED 2023 K6602VU-LZ952WS Laptop ,159990,88.0,13th,14,20,16,DDR5,Intel Core i9 13900H,1024.0,6 GB NVIDIA GeForce RTX 4050, 3200 x 2000 ,No,16,Windows 11,1 Year Warranty
+84,84,Acer,Acer Predator Helios Neo 16 PHN16-71 Laptop ,124990,75.0,13th,16,24,16,DDR5,Intel Core i7 13700HX,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+85,85,HP,HP 15s-fq2738TU Laptop ,38999,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD Graphics, 1366 x 768 ,No,15.6,Windows 11,1 Year Warranty
+86,86,MSI,MSI Thin GF63 11SC-1400IN Gaming Laptop ,53990,66.0,11th,6,12,16,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+87,87,MSI,MSI GF63 Thin 11SC-1299IN Gaming Laptop ,52990,71.0,11th,6,12,8,DDR4,Intel Core i5 11400H,1024.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,
+88,88,Asus,Asus Vivobook 15 2023 X1504VA-NJ324WS Laptop ,45990,,13th,6,8,8,DDR4,Intel Core i3 1315U,512.0, Integrated Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+89,89,Lenovo,Lenovo V15 82QYA00MIN Laptop ,23399,,,2,2,8,DDR4,,256.0,Intel Integrated Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+90,90,Lenovo,Lenovo ThinkBook 15 G3 21A4A08WIH Laptop ,32990,,5th,4,8,8,DDR4,AMD Ryzen 3 5300U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+91,91,Lenovo,Lenovo Thinkpad E15 21E6S05A00 Laptop ,45990,66.0,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+92,92,Asus,Asus Vivobook Pro 15 M6500QC-HN542WS Laptop ,65990,68.0,5th,6,12,16,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+93,93,Samsung,Samsung Galaxy Book 3 NP750XFG-KA3IN Laptop ,84990,60.0,13th,10,12,16,LPDDR4x,Intel Core i7 1355U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+94,94,Infinix,Infinix INBook Y1 Plus Laptop ,27990,,10th,2,4,8,LPDDR4X,Intel Core i3 1005G1,256.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+95,95,HP,HP Victus 15-fb0137AX Gaming Laptop ,77990,67.0,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+96,96,Samsung,Samsung Galaxy Book 3 360 13 NP730QFG-KA2IN Laptop ,109990,66.0,13th,10,12,16,LPDDR4x,Intel Core i7 1355U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,13.3,Windows 11,1 Year Warranty
+97,97,Samsung,Samsung Galaxy Book 3 Ultra Laptop ,229900,78.0,13th,14,20,32,LPDDR5,Intel Core i9 13900H,512.0,NVIDIA GeForce RTX 4070, 2880 x 1800 ,No,16,Windows 11,1 Year Warranty
+98,98,Lenovo,Lenovo V15 ‎82C70005UK Laptop ,38490,61.0,5th,6,12,8,DDR4,AMD Ryzen 5 5500U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+99,99,HP,HP 245 G8 689T3PA Laptop ,29490,,3rd,2,4,8,DDR4,AMD Ryzen 3 3250U,512.0,AMD Radeon Graphics, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+100,100,HP,HP Pavilion 15-eg2091TU Laptop ,68800,62.0,12th,12,16,16,DDR4,Intel Core i5 1240P,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+101,101,Apple,Apple MacBook Pro 16 inch Laptop ,322490,65.0,,12,,32,,,1024.0,38-core GPU, 3456 x 2234 ,No,16.2,Mac,1 Year Warranty
+102,102,Lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101GSIN Laptop ,58900,71.0,11th,4,8,8,DDR4,Intel Core i5 11300H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+103,103,Honor,Honor MagicBook X14 Laptop ,46729,61.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,‎Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+104,104,Asus,Asus Vivobook Pro 16 K6602HC-N1902WS Gaming Laptop ,89990,75.0,11th,8,16,16,DDR4,Intel Core i9 11900H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+105,105,Dell,Dell Latitude 3430 Laptop ,108000,65.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+106,106,Dell,Dell Inspiron 3520 D560871WIN9B Laptop ,55753,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+107,107,Asus,Asus TUF F15 FA507RE-HN043WS 2022 Gaming Laptop ,84990,76.0,6th,8,16,16,DDR5,AMD Ryzen 7 6800H,1024.0,4 GB NVIDIA GeForce RTX 3050 Ti, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+108,108,Asus,Asus Chromebook Flip C214MA-BU0704 Laptop ,16990,,,2,2,4,LPDDR4X,,32.0,Intel Integrated UHD 600, 1366 x 768 ,No,11.6,Chrome,1 Year Warranty
+109,109,Acer,Acer One 14 Z2-493 Laptop ,26990,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,256.0,AMD Radeon Graphics, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+110,110,Asus,Asus Vivobook Pro 15 M6500IH-HN701WS Laptop ,59990,68.0,4th,8,16,16,DDR4,AMD Ryzen 7  4800H,512.0,4 GB NVIDIA GeForce GTX 1650 Max Q, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+111,111,MSI,MSI Bravo 15 B5DD-410IN Gaming Laptop ,49990,64.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB AMD Radeon RX 5500M, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+112,112,Lenovo,Lenovo IdeaPad Gaming 3 82K201Y9IN Laptop ,53990,68.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,1024.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,
+113,113,Asus,Asus VivoBook 15 X515EA-EJ522WS Laptop ,44990,60.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+114,114,Acer,Acer Aspire 7 A715-42G UN.QAYSI.006 Gaming Laptop ,59500,67.0,5th,6,12,16,DDR4,AMD Ryzen 5  5500U,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+115,115,HP,HP 15s-du3614TU Laptop ,38249,65.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,1024.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,
+116,116,HP,HP Pavilion 15s-eq2182AU Laptop ,49990,60.0,5th,6,12,16,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+117,117,HP,HP Victus 15-fa0165TX Laptop ,67140,72.0,12th,8,12,8,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+118,118,Lenovo,Lenovo IdeaPad Slim 3 82RK0062IN Laptop ,55400,,12th,10,12,8,,Intel Core i5 1235U,512.0,‎Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+119,119,Lenovo,Lenovo IdeaPad Gaming 3 82K201ULIN Laptop ,68990,74.0,5th,6,12,16,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+120,120,Asus,Asus TUF Dash F15 2022 FX517ZC-HN035WS Gaming Laptop ,73990,66.0,12th,8,12,8,DDR5,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+121,121,Asus,Asus Eeebook 15 E510MA-EJ011WS Laptop ,24990,,,2,2,8,DDR4,,256.0,Intel UHD Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+122,122,HP,HP Pavilion 14-dv2041TU Laptop ,67300,61.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+123,123,HP,HP Pavilion 15s-fq5010TU Laptop ,57990,61.0,12th,12,16,8,DDR4,Intel Core i5 1240P,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+124,124,Dell,Dell G15-5530 Gaming 2023 Laptop ,149290,76.0,13th,14,,16,DDR5,Intel Core i7 13650HX,512.0,8 GB NVIDIA GeForce RTX 4060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+125,125,Asus,Asus Vivobook S14 OLED S3402ZA-KM501WS Laptop ,68990,62.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+126,126,Dell,Dell G15-5520 Laptop ,75490,66.0,12th,12,16,16,DDR5,Intel Core i5 12500H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+127,127,HP,HP Pavilion 15-eg2009TU Laptop ,64990,62.0,12th,12,16,8,DDR4,Intel Core i5 1240P,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+128,128,Asus,Asus VivoBook K15 OLED KM513UA-L511WS Laptop ,47990,60.0,5th,6,12,16,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+129,129,Jio,Jio JioBook NB1112MM Notebook ,21999,,,8,,2,,,64.0,Arm Mali-G72 MP3, 1366 x 768 ,No,14,Android 11,1 Year Warranty
+130,130,Dell,Dell Inspiron 3511 Laptop ,67900,65.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,1024.0,2 GB NVIDIA GeForce MX350, 1920 x 1080 ,No,15.6,Windows 10,
+131,131,Xiaomi,Xiaomi Mi Notebook Ultra Laptop ,55999,65.0,11th,4,8,16,DDR4,Intel Core i5 11300H,512.0,Intel Iris Xe Graphics, 3200 x 2000 ,No,15.6,Windows 10 ,1 Year Warranty
+132,132,Asus,Asus Chromebooks C523NA-A20303 Laptop ,18990,,,2,2,4,LPDDR4X,,64.0,Intel Integrated HD 500, 1920 x 1080 ,Yes,15.6,Chrome,1 Year Warranty
+133,133,Dell,Dell Latitude 3420 Laptop ,77400,60.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Iris Xe Graphics, 1366 x 768 ,No,14,Windows 10 ,1 Year Warranty
+134,134,Asus,Asus Vivobook 15 X515EA-EJ542WS Laptop ,62990,,11th,4,8,16,DDR4,Intel Core i5 1135G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+135,135,HP,HP ProBook 445 G8 7K2J8PA Business Laptop ,49990,63.0,5th,8,16,8,DDR4,AMD Ryzen 7 5800U,512.0,AMD Radeon, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+136,136,Dell,Dell Inspiron 3530 IN3530NM1NN001ORS1 Laptop ,63601,,13th,10,12,8,DDR4,Intel Core i5 1335U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+137,137,HP,HP Pavilion x360 14-ek1020TU Laptop ,90500,71.0,13th,10,12,16,DDR4,Intel Core i7 1355U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+138,138,Asus,Asus TUF Gaming F17 2023 FX707VV-HX067WS Gaming Laptop ,164990,82.0,13th,14,20,16,DDR4,Intel Core i9 13900H,1024.0,8 GB NVIDIA GeForce RTX 4060, 1920 x 1080 ,No,17.3,Windows 11,1 Year Warranty
+139,139,Dell,Dell Inspiron 7630 IC7630GHHRH001ORS1 2 in 1 Laptop ,122182,66.0,13th,10,12,8,LPDDR5,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1200 ,Yes,16,Windows 11,1 Year Warranty
+140,140,Dell,Dell Inspiron 7630 IC7630JV8RT001ORS1 2 in 1 Laptop ,139888,82.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,512.0,2 GB NVIDIA GeForce MX450, 3840 x 2400 ,Yes,16,Windows 11,1 Year Warranty
+141,141,MSI,MSI Creator Z17 HX Studio A13V Laptop,247999,,13th,14,20,32,DDR5,Intel Core i9 13900H,1024.0,8 GB NVIDIA GeForce RTX 4070, 2560 x 1600 ,No,17,Windows 11,3 Year Warranty
+142,142,Asus,Asus TUF Gaming F15 2023 FX507VU-LP091WS Gaming Laptop ,133990,75.0,13th,14,20,16,DDR4,Intel Core i7 13700H,1024.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+143,143,Dell,Dell Vostro 3510 D585049WIN8 Laptop ,43990,60.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,1024.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11 ,
+144,144,Asus,Asus Vivobook 16 2023 M1605YA-MB521WS Laptop ,56990,63.0,7th,6,12,8,DDR4,AMD Ryzen 5 7530U,512.0,AMD Radeon AMD, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+145,145,Asus,Asus ROG Strix G18 2023 G814JV-N5063WS Gaming Laptop ,169990,77.0,13th,14,,16,DDR5,Intel Core i7 13650HX,1024.0,8 GB NVIDIA GeForce RTX 4060, 1920 x 1200 ,No,18,Windows 11,1 Year Warranty
+146,146,HP,HP Pavilion 15s-fq5190TU Laptop ,70990,64.0,12th,10,12,16,DDR4,Intel 1255U 1255U,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+147,147,Asus,Asus TUF Gaming F15 2023 FX507VV-LP071WS Gaming Laptop ,154990,82.0,13th,14,20,16,DDR4,Intel Core i9 13900H,1024.0,8 GB NVIDIA GeForce RTX 4060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+148,148,Asus,Asus ROG Strix G17 2023 G713PU-LL060WS Gaming Laptop ,165990,85.0,7th,12,24,16,DDR5,AMD Ryzen 9 7845HX,1024.0,6 GB NVIDIA GeForce RTX 4050, 2560 x 1440 ,No,17.3,Windows 11,1 Year Warranty
+149,149,Asus,Asus ROG Zephyrus G16 2023 GU603VU-N4051WS Laptop ,169990,82.0,13th,14,20,16,DDR4,Intel Core i9 13900H,1024.0,6 GB NVIDIA GeForce RTX 4050, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+150,150,Asus,Asus Vivobook 16X 2023 K3605ZC-MB541WS Laptop ,74990,72.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+151,151,Asus,Asus Vivobook 15 X1502ZA-EJ542WS Laptop ,59900,62.0,12th,12,16,8,DDR4,Intel Core i5 12500H,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+152,152,Lenovo,Lenovo V14 G3 82TSA01KIH Laptop ,36990,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+153,153,Acer,Acer Aspire 7 A715-76G NH.QMESI.002 Gaming Laptop ,62990,67.0,12th,8,12,8,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+154,154,Microsoft,Microsoft Surface Pro X ‎MB8-00001 Laptop ,89990,,,,,16,LPDDR4X,,256.0,,,No,,Linux,
+155,155,Asus,Asus TUF Gaming F15 FX506HF-HN024W Gaming Laptop ,64990,70.0,11th,6,12,8,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+156,156,Asus,Asus Vivobook 14X OLED 2023 K3405VCB-KM542WS Laptop ,99990,70.0,13th,12,16,16,DDR4,Intel Core i5 13500H,512.0,4 GB NVIDIA Geforce RTX 3050, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+157,157,Asus,Asus Vivobook 16X 2023 K3605VC-MB542WS Laptop ,89990,67.0,13th,12,16,16,DDR4,Intel Core i5 13500H,512.0,4 GB NVIDIA Geforce RTX 3050 , 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+158,158,MSI,MSI GF63 Thin 11SC-1298IN Gaming Laptop ,62990,71.0,11th,8,16,16,DDR4,Intel Core i7 11800H,1024.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,
+159,159,HP,HP Pavilion 15-eh2050AU Laptop ,58990,62.0,5th,6,12,8,DDR4,AMD Ryzen 5 5625U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+160,160,Asus,Asus TUF Gaming F15 FX506HF-HN025W Gaming Laptop ,66990,72.0,11th,6,12,16,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+161,161,HP,HP 15-fc0030AU Laptop ,51999,,7th,4,8,16,LPDDR5,AMD Ryzen 5 7520U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+162,162,HP,HP 15-fd0018TU Laptop ,46990,,13th,6,8,8,DDR4,Intel Core i3 1315U,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+163,163,HP,HP 15-fd0006TU Laptop ,47499,,13th,6,8,8,DDR4,Intel Core i3 1315U,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+164,164,HP,HP 15-eg3026TU Laptop ,74999,64.0,13th,12,16,16,DDR4,Intel Core i5 1340P,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+165,165,Acer,Acer Predator Helios Neo 16 NH.QLTSI.001 Laptop ,109990,70.0,13th,14,20,16,DDR5,Intel Core i5 13500HX,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+166,166,Realme,Realme Book Prime CloudPro002 Laptop ,45990,62.0,11th,4,8,8,LPDDR4X,Intel Core i5 11320H,512.0,Intel Iris Xe Graphics, 2160 x 1440 ,No,14,Windows 11,1 Year Warranty
+167,167,HP,HP 250 G8 7M6L7PA Laptop ,34490,,11th,2,4,8,DDR4,Intel Core i3 1115G4,1024.0,Intel Integrated, 1366 x 768 ,No,15.6,Windows 11,
+168,168,Asus,Asus Vivobook 14X OLED 2023 K3405VFB-KM541WS Laptop ,89990,70.0,13th,12,16,16,DDR4,Intel Core i5 13500H,512.0,4 GB NVIDIA GeForce RTX 2050, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+169,169,Asus,Asus Vivobook 15 M1502QA-EJ742WS Laptop ,57990,,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,512.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows,1 Year Warranty
+170,170,MSI,MSI Katana 15 B12UDXK-1018IN Gaming Laptop ,96990,77.0,12th,10,16,16,DDR5,Intel Core i7 12650H,1024.0,6 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+171,171,MSI,MSI Katana 15 B12UDXK-1019IN Gaming Laptop ,86990,75.0,12th,8,12,16,DDR5,Intel Core i5 12450H,1024.0,6 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+172,172,MSI,MSI Katana 15 B12UDXK-1017IN Gaming Laptop ,88990,75.0,12th,10,16,8,DDR5,Intel Core i7 12650H,512.0,6 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+173,173,HP,HP 15s-fq3071TU Laptop ,30490,,,2,2,8,DDR4,,512.0,Intel Integrated UHD Graphics, 1366 x 768 ,No,15,Windows 11 ,1 Year Warranty
+174,174,Acer,Acer Aspire 7 A715-76G NH.QMESI.003 Gaming Laptop ,64990,65.0,12th,8,12,8,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+175,175,HP,HP Victus 15-fb0136AX Gaming Laptop ,64990,66.0,5th,6,12,16,DDR4,AMD Ryzen 5 5600H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+176,176,Asus,Asus Vivobook S15 OLED 2023 K5504VA-LK542WS Laptop ,85990,60.0,13th,12,16,16,LPDDR5,‎Intel Core i5 13500H,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+177,177,Asus,Asus Vivobook 16 2023 X1605VAB-MB322WS Laptop ,47990,,13th,6,8,8,DDR4,Intel Core i3 1315U,512.0,Intel Integrated UHD, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+178,178,Asus,Asus Vivobook S15 OLED 2023 S5504VA-MA543WS Laptop ,86750,65.0,13th,12,16,16,LPDDR5,Intel Core i5 13500H,512.0,Intel Integrated Iris Xe, 2880 x 1620 ,No,15.6,Windows 11,1 Year Warranty
+179,179,HP,HP 255 G9 7B1L8PA Laptop ,42490,64.0,5th,6,12,8,DDR4,AMD Ryzen 5 5625U,512.0,AMD Radeon Graphics, 1366 x 768 ,No,15.6,Windows 11,1 Year Warranty
+180,180,Infinix,Infinix INBook Y1 Plus Neo XL30 2023 Laptop ,23990,,11th,4,4,8,LPDDR4X,Intel Celeron N5100,256.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+181,181,Acer,Acer One 14 Business Z2-493 Laptop ,28990,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,512.0,AMD Radeon Graphics, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+182,182,HP,HP Spectre x360 2023 13.5-ef2033TU Laptop ,137990,72.0,13th,10,12,16,LPDDR4X,Intel Core i7 1355U,1024.0,Intel Iris Xe Graphics, 3000 x 2000 ,Yes,13.5,Windows 11,1 Year Warranty
+183,183,Acer,Acer Nitro 5 AN515-58 NH.QFSSI.001 Gaming Laptop ,121999,77.0,12th,10,16,16,DDR4,Intel Core i7 12650H,1024.0,8 GB NVIDIA GeForce RTX 3070 Ti, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+184,184,Huawei,Huawei MateBook D14 2023 Laptop ,58999,65.0,13th,12,16,16,LPDDR4X,Intel Core i5 1340P,512.0,Intel Iris Xe Graphics, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+185,185,‎Lenovo,‎Lenovo V15 G2 IJL 82QYA00HIN Laptop ,21990,,4th,2,2,8,DDR4,Intel Celeron  N4020,256.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,DOS,1 Year Warranty
+186,186,Apple,Apple MacBook Air 15 2023 Laptop ,109990,,,8,,8,DDR4,,256.0,8-Core GPU, 2560 x 1664 ,No,15.6,Mac,1 Year Warranty
+187,187,Lenovo,Lenovo E41-55 Laptop ,20699,,3rd,2,2,8,DDR4,AMD Athlon Silver 3050U,256.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+188,188,HP,HP 15-fc0025AU Laptop ,39990,,7th,4,8,8,DDR4,AMD Ryzen 3 7320U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+189,189,Lenovo,Lenovo V15 G3 82TTA00VIH Laptop ,38490,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+190,190,Asus,Asus Vivobook S14 S3402ZA-LY542WS Laptop ,69990,66.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,Intel Integrated Iris Xe, 1920 x 1200 ,No,14,Windows 11,1 Year Warranty
+191,191,HP,HP Victus 15-fb0108AX Gaming Laptop ,67500,67.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB AMD Radeon RX 6500M Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+192,192,MSI,MSI Modern 14 C11M-030IN Laptop ,42990,,11th,4,8,8,DDR4,Intel Core i5 1155G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+193,193,MSI,MSI Modern 14 C7M-062IN Laptop ,45990,62.0,7th,6,12,16,DDR4,AMD Ryzen 5 7530U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+194,194,Asus,Asus Vivobook Pro 15 M6500QC-HN742WS Laptop ,75990,72.0,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+195,195,Asus,Asus Vivobook Go 15 2023 E1504FA-NJ323WS Laptop ,36990,,7th,4,8,8,LPDDR5,AMD Ryzen 3 7320U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+196,196,Acer,Acer Extensa EX215-23 NX.EH3SI.003 Laptop ,39990,,7th,4,8,8,LPDDR5,AMD Ryzen 5 7520U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+197,197,Samsung,Samsung Galaxy Book 3 NP750XFG-KB1IN Laptop ,69990,,13th,10,12,8,LPDDR4x,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+198,198,Lenovo,Lenovo Legion 5 15ACH6 82JW00QMIN Gaming Laptop ,82990,74.0,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,512.0,4 GB NVIDIA GeForce GTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+199,199,Lenovo,Lenovo Yoga Slim 7 Pro 82NC00FSIN Laptop ,69990,62.0,11th,4,8,16,LPDDR4X,Intel Core i5 11320H,512.0,Intel Integrated Iris Xe, 2880 x 1800 ,No,14,Windows 11,3 Year Warranty
+200,200,MSI,MSI Cyborg 15 A12VF-069IN Gaming Laptop ,131332,73.0,12th,10,16,16,DDR5,Intel Core i7 12650H,512.0,8 GB NVIDIA GeForce RTX 4060, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+201,201,MSI,MSI Stealth GS77 12UHS-226IN Gaming Laptop ,300990,,12th,14,20,32,DDR5,Intel Core i9 12900H,2048.0,16 GB NVIDIA GeForce RTX 3080Ti, 3840 x 2160 ,No,17.3,Windows 11,2 Year Warranty
+202,202,Acer,Acer Aspire 7 ‎A715-51G Gaming Laptop ,56990,68.0,12th,12,16,8,DDR4,Intel Core i5 1240P,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+203,203,Asus,Asus TUF Gaming A15 FA506IHRZ-HN113W Laptop ,60370,67.0,4th,6,12,16,DDR4,AMD Ryzen 5 4600H,512.0,4 GB NVIDIA GeForce GTX 1650 , 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+204,204,Samsung,Samsung Galaxy Book 3 Ultra NP960XFH-XA1IN Laptop ,281990,82.0,13th,14,20,32,LPDDR5,Intel Core i9 13900H,1024.0,NVIDIA GeForce RTX 4070, 2880 x 1800 ,No,16,Windows 11,1 Year Warranty
+205,205,Samsung,Samsung Galaxy Book 3 360 15 NP750QFG-KA2IN Laptop ,114990,70.0,13th,12,16,16,LPDDR4x,Intel Core i5 1340P,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+206,206,Samsung,Samsung Galaxy Book 3 360 NP750QFG-KA3IN Laptop ,138990,74.0,13th,12,16,16,LPDDR4x,Intel Core i7 1360P,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+207,207,Samsung,Samsung Galaxy Book 3 Pro 360 NP960QFG-KA3IN Laptop ,179990,81.0,13th,12,16,16,DDR5,Intel Core i7 1360P,1024.0,Intel Iris Xe Graphics, 2880 x 1800 ,Yes,16,Windows 11,1 Year Warranty
+208,208,Asus,Asus VivoBook 15 X1500EA-EJ3379WS Laptop ,35990,,11th,2,4,8,DDR4,intel Core i3 1115G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+209,209,Asus,Asus VivoBook 15 X1500EA-EJ3381WS Laptop ,34999,,11th,2,4,8,DDR4,intel Core i3 1115G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+210,210,HP,HP 14s-dq2649TU Laptop ,39999,60.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+211,211,Apple,Apple MacBook Pro 16 inch Laptop ,248490,,2nd,12,,16,,Apple M2 Pro,1024.0,19-core GPU, 3456 x 2234 ,No,16.2,Mac,1 Year Warranty
+212,212,Apple,Apple MacBook Pro 14 inch Laptop ,183990,,,10,,16,,,512.0,16-core GPU, 3024 x 1964 ,No,14.2,Mac,1 Year Warranty
+213,213,Samsung,Samsung Galaxy Book2 NP550XED-KA1IN 15 Laptop ,57990,,12th,10,12,8,LPDDR4,Intel Core i5 1235U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+214,214,Lenovo,Lenovo Yoga 9i 83B1002GIN Laptop ,174990,77.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,1024.0,Intel Iris Xe Integrated Graphics, 3840 x 2400 ,Yes,14,Windows 11,3 Year Warranty
+215,215,HP,HP 15s- eq2212AU Laptop ,36990,,5th,4,8,8,DDR4,AMD Ryzen 3  5300U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+216,216,Infinix,Infinix INBook X2 Plus XL25 Laptop ,40990,,11th,4,8,16,LPDDR4X,Intel Core i5 1155G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+217,217,HP,HP Envy x360 13-bf0121TU  Laptop ,84990,71.0,12th,10,12,16,LPDDR4X,Intel Core i5 1230U,512.0,Intel Integrated Iris Xe, 1920 x 1200 ,Yes,13.4,Windows 11,1 Year Warranty
+218,218,Dell,Dell Vostro 3420 Laptop ,54490,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+219,219,Dell,Dell Vostro 3420 Laptop ,41490,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+220,220,Asus,Asus Vivobook 15 X1502ZA-EJ381WS Laptop ,42890,,12th,10,12,8,DDR4,Intel Core i3 1220P,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+221,221,Lenovo,Lenovo E41-55 82FJ00B5IH Laptop ,17990,,3rd,2,2,4,DDR4,AMD Athlon  3050U,256.0,AMD Radeon AMD, 1366 x 768 ,No,14,DOS,1 Year Warranty
+222,222,HP,HP Pavilion 14-dv2014TU Laptop ,66800,64.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Integrated UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+223,223,Lenovo,Lenovo Legion S7 82TF007LIN Gaming Laptop ,109990,83.0,12th,14,20,16,DDR5,Intel Core i7 12700H,1024.0,4 GB NVIDIA GeForce RTX 3050 Ti, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+224,224,HP,HP Victus 15-fb0135AX Gaming Laptop ,63990,64.0,5th,6,12,8,DDR4,AMD Ryzen 5 5600H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+225,225,Infinix,Infinix INBook X2 Plus XL25 Laptop ,29990,,11th,2,4,8,LPDDR4X,Intel Core i3 1115G4,256.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+226,226,Infinix,Infinix INBook X2 Plus XL25 Laptop ,31990,,11th,2,4,8,LPDDR4X,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+227,227,Dell,Dell Inspiron 5420 Laptop ,71700,62.0,12th,12,16,16,DDR5,Intel Core i5 1240P,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+228,228,Lenovo,Lenovo IdeaPad Gaming 3 82S900HNIN Laptop ,74990,72.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+229,229,Jio,Jio JioBook NB2112QB Netbook ,15799,,,8,,2,LPDDR4X,,32.0,Adreno 610 , 1366 x 768 ,No,11.6,,1 Year Warranty
+230,230,Asus,Asus VivoBook 14 2022 X1402ZA-MW511WS Laptop ,66990,73.0,12th,12,16,16,DDR4,Intel Core i5 1240P,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+231,231,HP,HP 14s-dr3001TU Laptop ,29999,,,4,4,8,DDR4,,256.0,Intel UHD Graphics, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+232,232,MSI,MSI Alpha 15 B5EEK-235IN Laptop ,74990,74.0,5th,8,16,8,DDR4,AMD Ryzen 7  5800H,512.0,8 GB AMD Radeon RX 6600M, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+233,233,Lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101B6IN Laptop ,51990,68.0,11th,4,8,8,DDR4,Intel Core i5 11320H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+234,234,Lenovo,Lenovo V15 82KDA01EIH Laptop ,32999,61.0,5th,4,8,8,DDR4,AMD Ryzen 3 5300U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+235,235,Dell,Dell Inspiron 5320 Laptop ,91690,64.0,12th,12,16,16,DDR5,Intel Core i7 1260P,512.0,Intel Integrated UHD, 1920 x 1080 ,No,13.3,Windows 11,1 Year Warranty
+236,236,Acer,Acer Extensa 15 EX215-54 Laptop ,34440,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+237,237,Xiaomi,Xiaomi Notebook Pro 120G Laptop ,64999,68.0,12th,8,12,16,LPDDR5,Intel Core i5 12450H,512.0,Intel UHD Graphics, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+238,238,Acer,Acer Nitro 5 AN515-58 Gaming Laptop ,78990,71.0,12th,8,16,16,DDR4,Intel Core i5 12500H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+239,239,HP,HP Victus 15-fa0353TX Laptop ,88540,62.0,12th,10,16,16,DDR4,Intel Core i7 12650H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+240,240,Acer,Acer Extensa EX215-54 NX.EGJSI.00N Laptop ,42990,,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+241,241,Lenovo,Lenovo Ideapad Slim 3i 81WQ00NXIN Laptop ,26989,,,2,2,8,DDR4,,256.0,Intel Integrated UHD, 1366 x 768 ,No,15.6,Windows 11,1 Year Warranty
+242,242,Lenovo,Lenovo IdeaPad Slim 5 82SF008YIN Laptop ,66990,66.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+243,243,Asus,Asus Vivobook 15 2022 X1502ZA-EZ311WS Touch Laptop ,47990,,12th,10,12,8,DDR4,Intel Core i3 1220P,512.0,Intel Iris Xe, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+244,244,Asus,Asus VivoBook 15 X1500EA-EJ322WS Laptop ,35990,,11th,2,4,8,DDR4,intel Core i3 1115G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+245,245,HP,HP Pavilion 15s-fq5112TU Laptop ,59500,,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+246,246,HP,HP Victus 15-fa0070TX Laptop ,62890,70.0,12th,8,12,8,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+247,247,Dell,Dell Vostro 3425 Laptop ,48990,66.0,5th,6,12,8,DDR4,AMD Ryzen 5 5625U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+248,248,Dell,Dell Inspiron 3525 Laptop ,39490,62.0,5th,4,8,8,DDR4,AMD Ryzen 3 5425U,512.0,AMD Radeon Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+249,249,HP,HP 14s-dy5005TU Laptop ,59990,,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+250,250,HP,HP 15s-FR2511TU Laptop ,38990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+251,251,HP,HP 15s- fr2512TU Laptop ,39990,,11th,4,8,8,DDR4,Intel Core i3 1125G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+252,252,HP,HP Victus 16-e0305ax Gaming Laptop ,74990,73.0,5th,8,16,8,DDR4,AMD Ryzen 7 5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+253,253,Dell,Dell Inspiron 7420 2-in-1 Touch Laptop ,59490,64.0,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Iris Xe Graphics, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+254,254,Acer,Acer Aspire 5 A515-57G Gaming Laptop ,59999,66.0,12th,12,16,8,DDR4,Intel Core i5 1240P,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+255,255,Xiaomi,Xiaomi Redmi Book Pro 15 2022 Laptop ,61990,72.0,12th,8,12,16,LPDDR5,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 2050, 3200 x 2000 ,No,15.6,Windows 10 ,1 Year Warranty
+256,256,Infinix,Infinix INBook X1 Slim XL21 Laptop ,36990,,10th,4,8,16,LPDDR4X,Intel Core i5 1035G1,512.0,Intel Integrated UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+257,257,MSI,MSI Thin GF63 11SC-852IN Gaming Laptop ,65990,72.0,11th,8,16,8,DDR4,Intel Core i7 11800H,512.0,4 GB NVIDIA GeForce GTX 1650 MAX Q, 1920 x 1080 ,No,15.6,Windows 10,2 Year Warranty
+258,258,MSI,MSI Thin GF63 11SC-853IN Gaming Laptop ,52990,70.0,11th,6,12,8,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA Geforce GTX1650 Max Q, 1920 x 1080 ,No,15.6,Windows 10,2 Year Warranty
+259,259,Apple,Apple MacBook Pro 2022 Laptop ,116910,,,8,,8,,,256.0,10 Core GPU, 2560 x 1600 ,No,13.3,Mac,1 Year Warranty
+260,260,Apple,Apple MacBook Air 2022 Laptop ,134910,,,8,,8,,,512.0,10-Core GPU, 2560 x 1664 ,No,13.6,Mac,1 Year Warranty
+261,261,Asus,Asus TUF Gaming F15 FX506LHB-HN355WS Gaming Laptop ,54990,62.0,10th,4,8,8,DDR4,Intel Core i5 10300H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11 ,1 Year Warranty
+262,262,HP,HP Pavilion 14-dv2015TU Laptop ,84990,64.0,12th,10,12,16,DDR4,Intel Core i7 1255U,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+263,263,Dell,Dell Inspiron 15 3511 Laptop ,50964,,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Integrated UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11 ,1 Year Warranty
+264,264,Samsung,Samsung Galaxy Book2 Laptop ,70990,62.0,12th,12,16,8,LPDDR4x,Intel Core i5 1240P,512.0,4 GB Intel Arc A350M Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+265,265,Dell,Dell Inspiron 5520 Laptop ,79990,73.0,12th,12,16,16,DDR5,Intel Core i5 12500H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+266,266,Asus,Asus Vivobook S15 OLED K3502ZA-L501WS Laptop ,73490,64.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,Intel Iris XE Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+267,267,Samsung,Samsung Galaxy Book2 15 Laptop ,64100,,12th,10,12,8,LPDDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+268,268,Dell,Dell G15-5520 Laptop ,99990,74.0,12th,14,20,16,DDR5,Intel Core i7 12700H,512.0,4 GB NVIDIA GeForce RTX 3050 Ti, 1920 x 1080 ,No,15.6,Windows 11 ,1 Year Warranty
+269,269,Lenovo,Lenovo IdeaPad D330 82H0001YIN Laptop ,24498,,,4,2,4,DDR4,,128.0,Intel UHD Graphics 600, 1200 x 800 ,Yes,10.1,Windows 10 10,
+270,270,HP,HP Pavilion 15-eg2002TU Laptop ,67990,64.0,12th,12,16,16,DDR4,Intel Core i5 1240P,512.0,Intel Iris Xᵉ Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+271,271,Lenovo,Lenovo E41-55 82FJ009JIH Laptop ,18989,,,2,2,4,,,1024.0,, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+272,272,Honor,Honor MagicBook X15 Laptop ,32990,,10th,2,4,8,DDR4,Intel Core i3 10110U,256.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 10,
+273,273,Samsung,Samsung Galaxy Book Go Laptop ,32990,,2nd,,,4,LPDDR4x,Qualcomm Snapdragon 7c,128.0,,,No,,Linux,1 Year Warranty
+274,274,Samsung,Samsung Galaxy Book2 Pro 13 Laptop ,109990,67.0,12th,8,16,16,LPDDR5,Intel Core i7 1260P,512.0,Intel Iris Xe Graphics, 1080 x 1920 ,No,13.3,Windows 11,1 Year Warranty
+275,275,Asus,Asus Vivobook 13 Slate OLED T3300KA-LQ122WS Laptop ,35500,,,4,4,4,LPDDR4X,,128.0,Intel UHD Graphics, 1920 x 1080 ,Yes,13.3,Windows 11,1 Year Warranty
+276,276,Asus,Asus VivoBook 15 X515EA-EJ322WS Laptop ,34990,,11th,2,4,8,DDR4,intel Core i3 1115G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+277,277,Dell,Dell Inspiron 3511 Laptop ,56510,64.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,1024.0,2 GB NVIDIA MX350 , 1920 x 1080 ,No,15.6,Windows 11,
+278,278,Lenovo,Lenovo Ideapad 15ALC6 82KU017KIN Laptop ,43975,,5th,6,12,8,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+279,279,Asus,Asus Zenbook 17 Fold UX9702AA-MD023WS Laptop ,316900,79.0,12th,10,12,16,LPDDR5,Intel Core i7 1250U,1024.0,Intel Iris Xe Graphics, 2560 x 1920 ,Yes,17.3,Windows 11,1 Year Warranty
+280,280,Dell,Dell Latitude 5420 Laptop ,104800,,11th,4,8,8,DDR4,Intel Core i5 1135G7,256.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 10 ,1 Year Warranty
+281,281,HP,HP Pavilion 15-ec2004AX Gaming Laptop ,63500,65.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 10,1 Year Warranty
+282,282,Realme,Realme Book Slim Laptop ,35990,,11th,2,4,8,LPDDR4x,Intel Core i3 1115G4,256.0,Intel UHD Graphics, 1440 x 2160 ,No,14,Windows 10,1 Year Warranty
+283,283,HP,HP 11a-na0006MU Chromebook ,19990,,,8,,4,LPDDR4X,,,MediaTek Integrated, 1366 x 768 ,Yes,11.6,Chrome,1 Year Warranty
+284,284,Xiaomi,Xiaomi Mi Notebook Pro 14 Laptop ,53999,61.0,11th,4,8,16,DDR4,Intel Core i5 11300H,512.0,Intel Iris Xe Graphics, 2560 x 1600 ,No,14,Windows 10 ,1 Year Warranty
+285,285,Acer,Acer Aspire 7 A715-42G NH.QAYSI.001 Gaming Laptop ,49999,60.0,5th,6,12,8,DDR4,AMD Ryzen 5  5500U,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 10,1 Year Warranty
+286,286,HP,HP 15s-GR0012AU Laptop ,37290,61.0,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,1024.0,AMD Radeon Vega 6, 1920 x 1080 ,No,15.6,Windows 10,
+287,287,Huawei,Huawei Qingyun L410 Laptop ,44990,,,,,8,,,512.0,,,No,,Linux,
+288,288,Dell,Dell Inspiron 3501 Laptop ,61640,,11th,4,8,8,DDR4,Intel Core i5 1135G7,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 10,
+289,289,Apple,Apple MacBook Air 2020 MGN73HN Laptop ,109990,,,8,,8,DDR4,,512.0,Apple M1 Integrated Graphics, 2560 x 1600 ,No,13.3,Mac,1 Year Warranty
+290,290,Avita,Avita Liber NS14A8INR671 Laptop ,44990,67.0,10th,4,8,16,DDR4,Intel Core i7 10510U,1024.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 10,1 Year Warranty
+291,291,Avita,Avita Pura NS14A6 Laptop ,39990,,3rd,4,8,8,DDR4,AMD Ryzen 5  3500U,512.0,AMD Radeon Vega 8, 1920 x 1080 ,No,14,Windows 10,1 Year Warranty
+292,292,Apple,Apple MacBook Air 2020 Laptop ,72999,,10th,4,8,8,LPDDR4X,Intel Core i3,256.0,Intel Iris Plus, 2560 x 1600 ,No,13.3,Mac 10.15.3	,
+293,293,Apple,Apple MacBook Pro 16 Laptop ,201498,81.0,9th,8,,32,DDR4,Intel Core i9,2048.0,4 GB Radeon Pro 5500M, 3072 x 1920 ,No,16,Mac Catalina,1 Year Warranty
+294,294,Asus,Asus Zenbook 14X OLED 2023 UM5401QA-KM751WS Laptop ,79990,66.0,5th,8,16,16,LPDDR4X,AMD Ryzen 7 5800H,1024.0,AMD Radeon AMD, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+295,295,Asus,Asus Zenbook 14X OLED 2023 M5401QA-KM541WS Laptop ,69990,64.0,5th,6,12,16,LPDDR4X,AMD Ryzen 5 5600H,512.0,AMD Radeon AMD, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+296,296,Acer,Acer Swift Edge 16 2023 Laptop ,107399,,7th,8,16,16,LPDDR5,AMD Ryzen 7040 Series 040,1024.0,AMD Radeon AMD, 3840 x 2400 ,No,16,Windows 11,1 Year Warranty
+297,297,Acer,Acer Aspire 7 A715-76G NH.QMFSI.004 Gaming Laptop ,74990,70.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce GTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+298,298,Acer,Acer Aspire 5 A515-58P NX.KHJSI.001 Gaming Laptop ,55999,,13th,6,8,8,LPDDR5,Intel Core i3 1315U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+299,299,HP,HP Pavilion 15-eg3027TU Laptop ,76349,66.0,13th,12,16,16,DDR4,Intel Core i5 1340p,512.0,Intel Integrated Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+300,300,Dell,Dell ‎G16-7630 Gaming Laptop ,187290,79.0,13th,24,32,16,DDR5,Intel Core i9 13900HX,512.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+301,301,Dell,Dell G15-5530 GN5530VMMD9002ORB1 Gaming Laptop ,115390,73.0,13th,14,,16,DDR5,Intel Core i7 13650HX,512.0,6 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+302,302,Dell,Dell G15-5530 2023 Gaming Laptop ,136999,75.0,13th,14,,16,DDR5,Intel Core i7 13650HX,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+303,303,Dell,Dell G15-5530 Gaming Laptop ,131860,73.0,13th,14,,16,DDR5,Intel Core i7 13650HX,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+304,304,Dell,Dell G15-5530 GN5530D83M6002ORB1 Gaming Laptop ,95899,71.0,13th,10,16,16,DDR5,Intel Core i5 13450HX,512.0,6 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+305,305,Dell,Dell G15-5530 GN553064GRM002ORB1 Gaming Laptop ,89750,69.0,13th,10,16,8,DDR5,Intel Core i5 13450HX,512.0,6 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+306,306,Acer,Acer Aspire 5 A515-58M NX.KHGSI.002 Gaming Laptop ,77999,,13th,10,12,16,LPDDR5,Intel Core i5 1335U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+307,307,Acer,Acer Aspire Vero AV14-52P NX.KJSSI.002 Laptop ,71999,,13th,10,12,16,LPDDR4X,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+308,308,Acer,Acer Aspire Vero AV14-52P NX.KJTSI.002 Laptop ,61999,,13th,6,8,16,LPDDR4X,Intel Core i3 1315U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows,1 Year Warranty
+309,309,MSI,MSI Stealth 17 Studio A13VG-029IN Gaming Laptop ,309990,83.0,13th,14,20,16,DDR5,Intel Core i7 13700H,2048.0,8 GB NVIDIA GeForce RTX 4070, 2560 x 1440 ,No,17.3,Windows 11,2 Year Warranty
+310,310,Asus,Asus Vivobook 15X 2023 K3504VAB-NJ321WS Laptop ,48470,,13th,6,8,8,DDR4,‎Intel Core i3 1315U,512.0,Integrated Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+311,311,Asus,Asus TUF Gaming A15 2023 FA577XU-LP041WS Gaming Laptop ,431990,84.0,7th,8,16,16,DDR4,AMD Ryzen 9 7940HS,1024.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+312,312,Asus,Asus ROG Zephyrus G14 2023 GA402XV-N2034WS Gaming Laptop ,199990,89.0,7th,8,16,32,DDR5,AMD Ryzen 9 7940HS,1024.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+313,313,Asus,Asus TUF Gaming F15 2023 FX507VU-LP083WS Gaming Laptop ,129990,73.0,13th,14,20,16,DDR4,Intel Core i7 13700H,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+314,314,Huawei,Huawei MateBook E 2023 Laptop ,88999,,12th,10,12,16,,Intel Core i5 1230U,512.0,Intel Iris Xe Graphics, 1600 x 2560 ,Yes,12.6,Windows 11,
+315,315,Asus,Asus ROG Strix G17 2023 G713PV-LL065WS Gaming Laptop ,182990,83.0,7th,12,24,16,DDR5,AMD Ryzen 9 7845HX,1024.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 1440 ,No,17.3,Windows 11,1 Year Warranty
+316,316,Asus,Asus Vivobook 16X 2023 K3605ZF-MB541WS Laptop ,72990,72.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+317,317,Asus,Asus TUF Gaming A15 2023 FA577XV-HQ036WS Gaming Laptop ,151990,83.0,7th,8,16,16,DDR5,AMD Ryzen 9 7940HS,1024.0,8 GB NVIDIA GeForce RTX 4060 , 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+318,318,Acer,Acer Aspire 5 14 A514-56GM 2023 Gaming Laptop ,74990,67.0,13th,10,12,16,DDR4,Intel Core i5 1335U,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+319,319,Acer,Acer Aspire 5 A514-56GM 2023 Gaming Laptop ,70990,65.0,13th,10,12,8,DDR4,Intel Core i5 1335U,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+320,320,Acer,Acer Aspire 5 A514-56GM Gaming Laptop ,80990,66.0,13th,10,12,8,DDR4,Intel Core i7 1355U,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+321,321,Lenovo,Lenovo IdeaPad Slim 5 82FG01B3IN Laptop ,65000,67.0,11th,4,8,16,DDR4,Intel Core i5 1135G7,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+322,322,MSI,MSI Bravo 15 B5ED-034IN Gaming Laptop ,57990,70.0,5th,8,16,8,DDR4,AMD Ryzen 7 5800H,512.0,4 GB AMD Radeon RX6500M, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+323,323,Acer,Acer Aspire 7 A715-76G NH.QMFSI.001 Gaming Laptop ,70990,63.0,12th,8,12,8,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+324,324,Acer,Acer Aspire 7 A715-76G NH.QMFSI.002 Gaming Laptop ,72990,65.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+325,325,Asus,Asus ROG Zephyrus G14 2023 GA402XZ-N2020WS Gaming Laptop ,266990,89.0,7th,8,16,32,DDR5,AMD Ryzen 9 7940HS,1024.0,12 GB NVIDIA GeForce RTX 4080, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+326,326,ASUS,ASUS TUF Gaming A16 Advantage Edition FA617XS-N3025WS Gaming Laptop ,139990,80.0,7th,8,16,16,DDR5,AMD Ryzen 9  7940HS,1024.0,8 GB AMD Radeon  RX 7600S, 1920 x 1200 ,No,15.6,Windows 11,1 Year Warranty
+327,327,Asus,Asus TUF Gaming A17 FA777XU-HX026WS Gaming Laptop ,134990,80.0,7th,8,16,16,DDR5,AMD Ryzen 9 7940HS,1024.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,17.3,Windows 11,1 Year Warranty
+328,328,Asus,Asus ROG Zephyrus G14 2023 GA402NU-N2023WS Gaming Laptop ,149990,76.0,7th,8,16,16,DDR5,AMD Ryzen 7  7735HS,1024.0,6 GB NVIDIA GeForce RTX 4050, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+329,329,Asus,Asus ROG Flow X13 GV302XU-MU013WS Gaming Laptop ,174990,71.0,,8,16,16,LPDDR5,,1024.0,6 GB NVIDIA GeForce RTX 4050, 2560 x 1600 ,Yes,13.4,Windows 11,1 Year Warranty
+330,330,Asus,Asus ROG Strix G16 2023 G614JU-N3221WS Gaming Laptop ,144990,73.0,13th,10,16,16,DDR5,Intel Core i5 13450HX,1024.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+331,331,Asus,Asus ROG Flow Z13 2023 GZ301VV-MU014WS Gaming Laptop ,209858,73.0,13th,14,20,16,LPDDR5,Intel Core i9 13900H,1024.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 1600 ,Yes,13.4,Windows 11,1 Year Warranty
+332,332,Asus,Asus ROG Strix G18 2023 G814JI-N6097WS Gaming Laptop ,219990,78.0,13th,24,32,16,DDR5,Intel Core i9 13980HX,1024.0,8 GB NVIDIA GeForce RTX 4070, 2560 x 1600 ,No,18,Windows 11,1 Year Warranty
+333,333,Lenovo,Lenovo IdeaPad 3 15IAU7 82RK00LWIN Laptop ,56990,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics , 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+334,334,Asus,Asus ROG Zephyrus G16 2023 GU603VV-N4044WS Laptop ,179990,85.0,13th,14,20,16,DDR4,Intel Core i9 13900H,1024.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+335,335,Asus,Asus ROG Strix G16 2023 G614JU-N3200WS Gaming Laptop ,152850,78.0,13th,14,,16,DDR5,Intel Core i7 13650HX,1024.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+336,336,Asus,Asus ROG Strix G16 2023 G614JI-N4151WS Gaming Laptop ,209990,79.0,13th,24,32,16,DDR5,Intel Core i9 13980HX,1024.0,8 GB NVIDIA GeForce RTX 4070, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+337,337,Asus,Asus Vivobook 15 X1502ZA-EJ323WS Laptop ,45900,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+338,338,Dell,Dell Inspiron 5520 Gaming Laptop ,77799,71.0,12th,12,16,8,DDR5,Intel Core i5 12500H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+339,339,Acer,Acer Predator Helios 16 PH16-71 Gaming Laptop ,164990,70.0,13th,16,24,16,LPDDR5,Intel Core i7 13700HX,512.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+340,340,Acer,Acer Swift Go 14 SFG14-71 NX.KF1SI.0023 Laptop ,79990,66.0,13th,12,16,16,LPDDR5,Intel Core i5 13500H,512.0,Intel Integrated Iris Xe, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+341,341,HP,HP Victus 15-fa0092TX Gaming Laptop ,75990,65.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+342,342,Asus,Asus Vivobook Pro 15 OLED K6502VU-MA541WS Laptop ,125950,75.0,13th,12,16,16,DDR5,Intel Core i5 13500H,512.0,6 GB NVIDIA GeForce RTX 4050, 2880 x 1620 ,No,15.6,Windows 11,1 Year Warranty
+343,343,Dell,Dell Alienware m16 Gaming Laptop ,217990,83.0,13th,16,24,16,DDR5,Intel Core i7 13700HX,1024.0,8 GB NVIDIA GEFORCE RTX 4060, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+344,344,Dell,Dell Alienware x14 R2 2023 Gaming Laptop ,245490,78.0,13th,10,16,32,LPDDR5,Intel Core i7 13620H,1024.0,8 GB NVIDIA GEFORCE RTX 4060, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+345,345,Lenovo,Lenovo Thinkbook 14 Gen 2 20VDA0L2IH Laptop ,55000,62.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel uhd Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+346,346,Asus,Asus Vivobook 16X M1603QA-MB742WS Laptop ,62990,66.0,5th,8,16,16,DDR4,AMD Ryzen 7  5800H,512.0,AMD Radeon Graphics, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+347,347,Asus,Asus Vivobook 16X 2023 K3605ZF-MB521WS Laptop ,68990,67.0,12th,8,12,8,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA Geforce RTX 2050, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+348,348,Dell,Dell XPS 15 9510 Laptop ,229000,77.0,11th,8,16,16,DDR4,Intel Core i7 11800H,512.0,4 GB NVIDIA RTX 3050 Ti, 3840 x 2400 ,No,15.6,Windows 11,1 Year Warranty
+349,349,Acer,Acer TravelMate 14 P214-53 Laptop ,51990,65.0,11th,4,8,16,DDR4,Intel Core i5 1135G7,1024.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 10,
+350,350,Huawei,Huawei MateBook 16s 2023 Laptop ,185990,67.0,13th,12,16,16,,Intel Core i5 13500H,512.0,Intel Iris Xe Graphics, 2520 x 1680 ,Yes,16,Windows 11,1 Year Warranty
+351,351,Huawei,Huawei MateBook X Pro 2023 Laptop ,184990,73.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,1024.0,Intel Iris Xe, 3120 x 2080 ,Yes,14.2,Windows 11,1 Year Warranty
+352,352,HP,HP 15-hr0000TU Laptop ,66890,,13th,10,12,8,DDR4,Intel Core i5 1335U,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+353,353,HP,HP 15-hr0001TU Laptop ,69890,,13th,10,12,16,DDR4,Intel Core i5 1335U,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+354,354,HP,HP 15s-fr5009TU Laptop ,41990,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+355,355,HP,HP 15s-fr4001TU Laptop ,57990,65.0,11th,4,8,16,DDR4,Intel Core i5 1155G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+356,969,Dell,Dell Inspiron 3525 Laptop ,42990,,3rd,2,4,8,DDR4,AMD Ryzen 3 3250U,1024.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,15.6,Windows 11,
+357,357,MSI,MSI Katana 15 B12UDXK-1005IN Gaming Laptop ,81990,73.0,12th,8,12,16,DDR5,Intel Core i5 12450H,512.0,6 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+358,358,MSI,MSI Katana 15 B12UDXK-1006IN Gaming Laptop ,78990,71.0,12th,8,12,8,DDR5,Intel Core i5 12450H,512.0,6 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+359,359,HP,HP 15-fd0013TU Laptop ,69594,,13th,10,12,16,DDR4,Intel Core i5 1335U,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+360,356,MSI,MSI Thin GF63 12UCX-269IN Gaming Laptop ,66990,69.0,12th,8,12,16,DDR4,Intel Core i5 12450H,1024.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,
+361,361,HP,HP 15s-eq1580AU Laptop ,32990,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+362,362,HP,HP 15-fd0021TU Laptop ,62990,,13th,10,12,8,DDR4,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+363,363,Asus,Asus Vivobook S15 OLED 2023 S5504VA-MA741WS Laptop ,105990,66.0,13th,14,20,16,LPDDR5,Intel Core i7 13700H,512.0,Intel Integrated Iris Xe, 2880 x 1620 ,No,15.6,Windows 11,1 Year Warranty
+364,364,Acer,Acer Swift Go 14 SFG14-41 NX.KG3SI.003 Laptop ,59990,62.0,7th,6,12,16,,AMD Ryzen 5  7530U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+365,365,Asus,Asus Vivobook 15 2023 X1504VA-NJ524WS Laptop ,59990,62.0,13th,10,12,8,DDR4,Intel Core i5 1335U,512.0,Integrated Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+366,366,Dell,Dell G15-5525 D560896WIN9S Gaming Laptop ,130299,76.0,6th,8,16,16,DDR5,AMD Ryzen 9 6900HX,1024.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+367,367,Asus,Asus Vivobook S15 2022 K3502ZA-KJ522WS Laptop ,65990,65.0,12th,12,16,8,DDR4,Intel Core i5 12500H,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+368,368,Asus,Asus Vivobook 14X 2023 K3405VF-LY541WS Laptop ,83990,66.0,13th,12,16,16,DDR4,Intel Core i5 13500H,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1200 ,No,14,Windows 11,1 Year Warranty
+369,369,MSI,MSI Stealth 16 Studio A13VG-030IN Gaming Laptop ,311766,86.0,13th,14,20,32,DDR5,Intel Core i7 13700H,1024.0,8 GB NVIDIA GeForce RTX 4070, 2560 x 1600 ,No,16,Windows 11,2 Year Warranty
+370,370,Asus,Asus Vivobook Pro 15 OLED K6502VU-MA951WS Laptop ,160000,84.0,13th,14,20,16,DDR5,Intel Core i9 13900H,1024.0,6 GB NVIDIA GeForce RTX 4050, 2880 x 1620 ,No,15.6,Windows 11,1 Year Warranty
+371,371,Asus,Asus Zenbook Pro 14 Duo OLED 2023 UX8402VU-MZ961WS Laptop ,229990,78.0,13th,14,20,16,LPDDR5,Intel Core i9 13900H,1024.0,6 GB NVIDIA GeForce RTX 4050, 2880 x 1800 ,Yes,14.5,Windows 11,1 Year Warranty
+372,372,Asus,Asus Zenbook Pro 14 Duo OLED 2023 UX8402VU-MZ551WS Laptop ,199990,71.0,13th,12,16,16,LPDDR5,Intel Core i5 13500H,1024.0,6 GB NVIDIA GeForce RTX 4050, 2880 x 1800 ,Yes,14.5,Windows 11,1 Year Warranty
+373,373,HP,HP ProBook 440 G9 6J8T1PA Laptop ,121130,75.0,12th,10,12,16,DDR4,Intel Core i7 1255U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+374,374,HP,HP 15-fd0024TU Laptop ,91141,66.0,13th,12,16,16,DDR4,Intel Core i7 1360P,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+375,375,Asus,Asus TUF Gaming F17 FX706HF-HX018W Laptop ,64990,64.0,11th,6,12,8,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,17.3,Windows 11,1 Year Warranty
+376,376,Asus,Asus VivoBook 15 X515EA-EJ342WS Laptop ,38990,,11th,2,4,16,DDR4,intel Core i3 1115G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+377,377,HP,HP 15s-fy5002TU Laptop ,56490,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+378,378,Dell,Dell Alienware M18 R1 Gaming Laptop ,367990,83.0,13th,14,20,32,LPDDR5,Intel Core i9 13900HK,1024.0,12 GB NVIDIA GeForce RTX 4080, 3200 x 1800 ,No,18,Windows 11,1 Year Warranty
+379,379,Dell,Dell Alienware X16 R1 Gaming Laptop ,387690,82.0,13th,14,20,32,LPDDR5,Intel Core i9 13900HK,1024.0,12 GB NVIDIA GeForce RTX 4080, 3200 x 1800 ,No,16,Windows 11,1 Year Warranty
+380,380,Lenovo,Lenovo Ideapad Gaming 3 15ACH6 82K20145IN Laptop ,72990,71.0,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+381,381,Lenovo,Lenovo IdeaPad Gaming 3 15ACH6 82K2022XIN Laptop ,69990,67.0,5th,8,16,8,DDR4,AMD Ryzen 7  5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+382,382,Acer,Acer Aspire 5 A515-56G 15 Laptop ,54990,66.0,11th,4,8,16,DDR4,Intel Core i5 1135G7,512.0,2 GB NVIDIA GeForce MX450, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+383,383,Acer,Acer One 11 Z8-284 UN.013SI.014 Laptop ,23490,,,2,2,8,DDR4,,256.0,Intel Integrated UHD, 1366 x 768 ,No,11.6,Windows 11,1 Year Warranty
+384,384,Acer,Acer One 11 Z8-284 UN.013SI.013 Laptop ,21490,,,2,2,4,DDR4,,128.0,Intel Integrated UHD, 1366 x 768 ,No,11.6,Windows 11,1 Year Warranty
+385,385,HP,HP ProBook 440 G8 5D6U3PA Notebook PC ,77610,67.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Iris Xe Graphics, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+386,386,HP,HP 15-fd0012TU Laptop ,67990,,13th,10,12,8,DDR4,Intel Core i5 1335U,1024.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+387,387,Acer,Acer Chromebook CB314-1H NX.ATFSI.008 Laptop ,20990,,,2,2,4,LPDDR4,,64.0,Intel Integrated UHD 600, 1366 x 768 ,No,14,Chrome,1 Year Warranty
+388,388,Acer,Acer Predator Helios Neo 16 PHN16-71 Gaming Laptop ,129990,75.0,13th,16,24,16,DDR5,Intel Core i7 13700HX,1024.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+389,389,Acer,Acer Predator Helios Neo 16 NH.QLTSI.002 Laptop ,124990,66.0,13th,16,24,16,LPDDR5,Intel Core i7 13700HX,512.0,6 GB NVIDIA GeForce RTX 4060, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+390,390,Acer,Acer 16 Predator Neo NH.QLTSI.001 Laptop ,109990,65.0,13th,14,20,16,LPDDR5,Intel Core i5 13500HX,512.0,6 GB NVIDIA GeForce RTX 4060, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+391,360,MSI,MSI Thin GF63 12VE-267IN Gaming Laptop ,84990,73.0,12th,8,12,16,DDR4,Intel Core i5 12450H,1024.0,8 GB NVIDIA GeForce RTX 4060, 1920 x 1080 ,No,15.6,Windows 11,
+392,392,Asus,Asus Vivobook S14 Flip 2022 TN3402QA-LZ540WS Laptop ,64990,65.0,5th,6,12,16,DDR4,AMD Ryzen 5 5600H,512.0,AMD Radeon AMD, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+393,391,MSI,MSI Thin GF63 12VF-268IN Laptop ,96990,77.0,12th,8,12,16,DDR4,Intel Core i5 12450H,1024.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11 ,
+394,394,Dell,Dell Vostro 3510 2023 Laptop ,51490,63.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11 ,1 Year Warranty
+395,395,Dell,Dell Vostro 3420 Laptop ,54490,63.0,11th,4,8,16,DDR4,Intel Core i5 1135G7,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+396,396,Dell,Dell Vostro 3425 Laptop ,47490,,5th,6,12,8,DDR4,AMD Ryzen 5 5500U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+397,397,Acer,Acer Nitro 5 AN515-46 Gaming Laptop ,88990,65.0,6th,6,12,16,DDR5,AMD Ryzen 5  6600H,1024.0,4 GB NVIDIA GeForce RTX 3050, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+398,398,Acer,Acer Aspire 5 A515-56G Laptop ,49490,64.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,2 GB NVIDIA GeForce MX450, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+399,399,Asus,Asus VivoBook 14 X1400EA-EK322WSNotebook ,34990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated Intel UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+400,400,Asus,Asus Vivobook 15 2023 X1504VA-NJ321WS Laptop ,45270,,13th,6,8,8,DDR4,Intel Core i3 1315U,512.0, Integrated Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+401,401,MSI,MSI Cyborg 15 A12UCX-265IN Gaming Laptop ,86990,66.0,12th,8,12,8,DDR5,Intel Core i5 12450H,512.0,4 GB Nvidia GeForce RTX 2050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+402,402,Asus,Asus Vivobook Pro 16 OLED 2023 K6602VU-LZ542WS Laptop ,124990,78.0,13th,12,16,16,DDR5,Intel Core i5 13500H,512.0,6 GB NVIDIA GeForce RTX 4050, 3200 x 2000 ,No,16,Windows 11,1 Year Warranty
+403,403,MSI,MSI Stealth 14 Studio A13VE-038IN Gaming Laptop ,186903,77.0,13th,14,20,16,DDR5,Intel Core i7 13700H,1024.0,6 GB Nvidia GeForce RTX4050, 1920 x 1200 ,No,14,Windows 11,2 Year Warranty
+404,404,Lenovo,Lenovo Thinkpad P15 20YRS3A300 Laptop ,160990,80.0,11th,8,16,32,DDR4,Intel Core i7 11850H,512.0,4 GB  Nvidia Quadro T1200, 1920 x 1080 ,No,15.6,Windows 10,3 Year Warranty
+405,405,Asus,Asus Zenbook 14 Flip OLED 2023 UP3404VA-KN742WS Laptop ,124990,73.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,512.0, Intel Iris Xe Graphics, 2880 x 1800 ,Yes,14,Windows 11,1 Year Warranty
+406,406,HP,HP 15-fc0026AU Laptop ,39990,,7th,4,8,8,LPDDR5,AMD Ryzen 3 7320U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+407,407,Asus,Asus Vivobook 16 2023 X1605VAB-MB544WS Laptop ,64990,,13th,10,12,16,DDR4,Intel Core i5 1335U,512.0,Intel Integrated Iris Xe, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+408,408,MSI,MSI Summit E13 Flip Evo A11MT-214IN Laptop ,95990,70.0,11th,4,8,16,DDR4,Intel Core i5 1135G7,512.0,Intel Integrated Iris Xe, 1920 x 1200 ,Yes,13.4,Windows 10,2 Year Warranty
+409,409,MSI,MSI Summit E13 Flip Evo A11MT-213IN Laptop ,109990,65.0,11th,4,8,16,LPDDR4X,Intel Core i7 1185G7,512.0,Intel Integrated Iris Xe, 1920 x 1200 ,Yes,13.4,Windows 10,2 Year Warranty
+410,410,Lenovo,Lenovo Legion 5 15ACH6 82JW00PBIN Gaming Laptop ,82990,75.0,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,512.0,4 GB NVIDIA GeForce GTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+411,411,Asus,Asus Zenbook 14 OLED 2023 UX3402VA-KN541WS Laptop ,98261,71.0,13th,12,16,16,LPDDR5,Intel Core i5 1340P,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+412,412,Asus,Asus Zenbook 14 OLED 2023 UX3402VA-KN741WS Laptop ,123000,73.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+413,413,HP,HP Victus 15-fa0998TX Gaming Laptop ,75499,72.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+414,414,Asus,Asus Vivobook Flip 14 2023 TP3402VAB-LZ542WS Laptop ,77809,64.0,13th,10,12,16,DDR4,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+415,415,HP,HP Victus 15-fa0666TX Gaming Laptop ,76990,65.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+416,416,Asus,Asus Vivobook 15 X1502ZA-EJ953WS Laptop ,43800,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+417,417,HP,HP ProBook 440 G9 6K3L6PA Laptop ,101900,68.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+418,418,MSI,MSI GF63 Thin 11UC-1296IN Gaming Laptop ,64990,66.0,11th,6,12,16,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+419,419,Asus,Asus Vivobook 15 2023 X1504VA-NJ523WS Laptop ,59750,,13th,10,12,8,DDR4,Intel Core i5 1335U,512.0,Integrated Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+420,420,MSI,MSI Thin GF63 12UCX-265IN Gaming Laptop ,68990,65.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+421,421,MSI,MSI Thin GF63 12UCX-266IN Gaming Laptop ,65990,62.0,12th,8,12,8,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 2050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+422,422,Asus,Asus Vivobook Go 14 E1404GA-NK322WS Laptop ,37990,,,8,8,8,DDR4,,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows,1 Year Warranty
+423,393,Dell,Dell Vostro 3510 Laptop 2023 ,52490,63.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,1024.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,
+424,424,MSI,MSI Stealth 16 Studio A13VF-023IN Gaming Laptop ,219990,84.0,13th,14,20,32,DDR5,Intel Core i7 13700H,1024.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 1600 ,No,15.6,Windows 11,2 Year Warranty
+425,425,Acer,Acer Nitro 5 AN515-47 2023 Gaming Laptop ,82990,73.0,7th,6,12,16,DDR5,AMD Ryzen 5 7535HS,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+426,426,Acer,Acer Nitro 5 AN515-47 Gaming Laptop ,92990,72.0,7th,8,16,16,DDR5,AMD Ryzen 7 7735HS,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+427,427,MSI,MSI Katana GF66 12UC-1004IN Gaming Laptop ,85990,72.0,12th,10,16,16,DDR4,Intel Core i7 12650H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+428,428,Lenovo,Lenovo ThinkPad P14s 21AKS02800 Laptop ,133990,78.0,12th,12,16,16,DDR4,Intel Core i7 1260P,512.0,4 GB NVIDIA T550, 1920 x 1080 ,No,14,Windows 11,3 Year Warranty
+429,429,MSI,MSI Thin GF63 11SC-1401IN Gaming Laptop ,50990,65.0,11th,6,12,8,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+430,430,MSI,MSI Stealth 14 Studio A13VF-037IN Gaming Laptop ,218129,80.0,13th,14,20,16,DDR5,Intel Core i7 13700H,1024.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 1600 ,No,15.6,Windows 11,2 Year Warranty
+431,431,Asus,Asus Vivobook 15X OLED 2023 K3504VA-LK552WS Laptop ,83500,63.0,13th,12,16,16,DDR4,‎Intel Core i5 1340P,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+432,432,MSI,MSI Katana GF66 12UC-880IN Gaming Laptop ,86990,72.0,12th,10,16,8,DDR4,Intel Core i7 12650H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+433,423,MSI,MSI GF63 Thin 11UC-1295IN Gaming Laptop ,66990,71.0,11th,6,12,16,DDR4,Intel Core i5 11400H,1024.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,
+434,434,MSI,MSI Raider GE68HX 13VG-026IN Gaming Laptop ,259990,87.0,13th,16,24,32,DDR5,Intel Core i7 13700HX,2048.0,8 GB NVIDIA GeForce RTX 4070, 2560 x 1600 ,No,16,Windows 11,2 Year Warranty
+435,435,Asus,Asus Vivobook S14 Flip 2022 TN3402QA-LZ741WS Laptop ,71990,67.0,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,512.0,AMD Radeon Graphics, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+436,436,Asus,Asus Vivobook 15X 2023 K3504VAB-NJ541WS Laptop ,65990,,13th,10,12,16,DDR4,‎Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+437,437,Samsung,Samsung Galaxy Book 3  NP750XFG-KB2IN Laptop ,79990,,13th,10,12,16,LPDDR4x,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+438,438,MSI,MSI Pulse 15 B13VFK-293IN Gaming Laptop ,169990,73.0,13th,14,20,16,DDR5,Intel Core i7 13700H,1024.0,8 GB NVIDIA GeForce RTX 4060, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+439,439,Asus,Asus Vivobook Go 15 OLED 2023 E1504GA-LK322WS Laptop ,47990,,,8,8,8,DDR4,,512.0,Integrated Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+440,440,Asus,Asus Vivobook Go 15 2023 EE1504GA-NJ322WS Laptop ,38990,,,8,8,8,DDR4,,512.0,Integrated Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+441,441,Asus,Asus Vivobook 15X OLED 2023 K3504VA-LK542WS Laptop ,74985,64.0,13th,12,16,16,DDR4,‎Intel Core i5 1340P,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+442,442,Asus,Asus Zenbook 14 Flip OLED 2023 UP3404VA-KN542WS Laptop ,109990,71.0,13th,12,16,16,LPDDR5,Intel Core i5 1340P,512.0, Intel Iris Xe Graphics, 2880 x 1800 ,Yes,14,Windows 11,1 Year Warranty
+443,443,Asus,Asus Zenbook 14 Flip OLED 2023 UP3404VA-KN753WS Laptop ,138095,74.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,1024.0, Intel Iris Xe Graphics, 2880 x 1800 ,Yes,14,Windows 11,1 Year Warranty
+444,444,Dell,Dell Inspiron 3525 D560771WIN9S Laptop ,52020,62.0,5th,6,12,8,DDR4,AMD Ryzen 5 5625U,512.0,AMD Radeon Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+445,445,Asus,Asus Vivobook 15 OLED 2023 X1505VA-LK542WS Laptop ,74990,60.0,13th,12,16,16,DDR4,‎Intel Core i5 13500H,512.0,Integrated Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+446,446,Asus,Asus VivoBook 14 2023 X1404VA-NK321WS Laptop ,45990,,13th,6,8,8,DDR4,Intel Core i3 1315U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+447,447,Asus,Asus VivoBook 14 2023 X1404VA-NK541WS Laptop ,63990,,13th,10,12,16,DDR4,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+448,448,Asus,Asus Zenbook S13 OLED 2023 UX5304VA-NQ742WS Laptop ,124990,67.0,13th,10,12,16,LPDDR5,Intel Core i7 1355U,1024.0,Intel Integrated Intel Iris Xe Graphics, 2880 x 1800 ,No,13.3,Windows 11,1 Year Warranty
+449,449,Asus,Asus VivoBook 14 2023 X1404VA-NK522WS Laptop ,59990,,13th,10,12,8,DDR4,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+450,450,Asus,Asus Zenbook S13 OLED 2023 UX5304VA-NQ762WS Laptop ,149990,71.0,13th,10,12,32,LPDDR5,Intel Core i7 1355U,1024.0,Intel Integrated Intel Iris Xe Graphics, 2880 x 1800 ,No,13.3,Windows 11,1 Year Warranty
+451,451,Asus,Asus Zenbook 14 OLED 2023 UX3402VA-KM742WS Laptop ,117990,73.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+452,452,Asus,Asus Zenbook 14 OLED 2023 UX3402VA-KM541WS Laptop ,94990,70.0,13th,12,16,16,LPDDR5,Intel Core i5 1340P,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+453,453,Asus,Asus Zenbook S13 OLED 2023 UX5304VA-NQ542WS Laptop ,104990,64.0,13th,10,12,16,LPDDR5,Intel Core i5 1335U,512.0,Intel Integrated Intel Iris Xe Graphics, 2880 x 1800 ,No,13.3,Windows 11,1 Year Warranty
+454,454,Asus,Asus Vivobook S14 Flip 2022 TN3402QA-LZ520WS Laptop ,56990,62.0,5th,6,12,8,DDR4,AMD Ryzen 5 5600H,512.0,AMD Radeon AMD, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+455,455,Gigabyte,Gigabyte Aorus 15 BKF Gaming Laptop ,169990,79.0,13th,14,20,16,DDR5,Intel Core i7 13700H,1024.0,8 GB NVIDIA GeForce RTX 4060, 2560 x 1440 ,No,15.6,Windows 11 ,2 Year Warranty
+456,456,Fujitsu,Fujitsu UH-X 4ZR1J37878 Laptop ,109990,77.0,12th,10,12,16,LPDDR4X,Intel Core i7 1255U,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,13.3,Windows 11,1 Year Warranty
+457,457,Gigabyte,Gigabyte Aorus 17 BSF Gaming Laptop ,179599,79.0,13th,14,20,16,DDR5,Intel Core i7 13700H,1024.0,8 GB NVIDIA GeForce RTX 4070, 2560 x 1440 ,No,17.3,Windows 11 ,2 Year Warranty
+458,458,Dell,Dell Vostro 3420 D552317WIN9B Laptop ,59490,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+459,459,HP,HP Spectre x360 16-f2005TX Laptop ,182990,,13th,12,16,32,DDR4,Intel Core i7 1360P,1024.0,4 GB  Intel Arc A370M Graphics, 3840 x 2400 ,Yes,16,Windows 11,1 Year Warranty
+460,460,HP,HP Spectre x360 16-f2002TU Laptop ,144990,79.0,13th,14,20,16,DDR4,Intel Core i7 13700H,1024.0, Intel UHD Graphics, 3072 x 1920 ,Yes,16,Windows 11,1 Year Warranty
+461,461,Huawei,Huawei MateBook D16 2023 Laptop ,84999,61.0,13th,12,16,8,LPDDR4X,Intel Core i5 13500H,512.0,Intel Iris Xe Graphics, 1920 x 1200 ,Yes,16,Windows 11,1 Year Warranty
+462,462,Asus,Asus Vivobook 14 OLED 2023 M1405YA-KM741WS Laptop ,75980,68.0,7th,8,16,16,LPDDR4,AMD Ryzen 7 7730U,512.0,Integrated AMD Radeon Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+463,463,MSI,MSI Titan GT77 HX 13VH-093IN Gaming Laptop ,536317,,13th,24,32,64,DDR5,Intel Core i9 13980HX,2048.0,12 GB NVIDIA GeForce RTX 4080, 3840 x 2160 ,No,17.3,Windows 11,2 Year Warranty
+464,464,Honor,Honor MagicBook 15 BMH-WFQ9HN Laptop ,44990,,5th,6,12,16,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+465,465,Acer,Acer Aspire 3 14 A314-36M Laptop ,38990,,,8,8,8,DDR4,,512.0,Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+466,466,Acer,Acer Predator Helios 16 Laptop ,249990,77.0,13th,24,32,32,LPDDR5,Intel Core i9 13900HX,1024.0,12 GB NVIDIA GeForce RTX 4080, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+467,467,Acer,Acer Predator Helios 16 NH.QJRSI.003 Laptop ,199990,71.0,13th,24,32,16,LPDDR5,Intel Core i9 13900HX,1024.0,8 GB NVIDIA GeForce RTX 4070, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+468,468,Lenovo,Lenovo V14-IGL‎ 82C40185PB Laptop ,19999,,,2,2,4,DDR4,,256.0,Intel UHD Graphics 600, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+469,469,Lenovo,Lenovo Thinkpad E14 20TAS0XH00 Laptop ,49999,60.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+470,470,Lenovo,Lenovo V14 82KAA04QIH Laptop ,47499,,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel UHD Graphics , 1366 x 768 ,No,14,DOS,1 Year Warranty
+471,471,Lenovo,Lenovo V15 G2 82KDA022IH Laptop ,38990,,5th,6,12,8,DDR4,AMD Ryzen 5 5500U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+472,472,Lenovo,Lenovo ThinkPad E14 21EBS02L00 Laptop ,59990,62.0,5th,6,12,16,DDR4,AMD Ryzen 5 5625U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+473,473,Fujitsu,Fujitsu FMV MH 4ZR1K10326 Laptop ,64990,70.0,5th,8,16,16,DDR4,AMD Ryzen 7 5825U,512.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+474,433,MSI,MSI GF63 Thin 11UC-1297IN Gaming Laptop ,63990,70.0,11th,6,12,8,DDR4,Intel Core i5 11400H,1024.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,
+475,475,Fujitsu,Fujitsu FMV MH 4ZR1K10325 Laptop ,54990,68.0,5th,6,12,16,DDR4,AMD Ryzen 5 5625U,512.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+476,476,Asus,Asus Vivobook Pro 15 OLED M3500QC-L1712WS Laptop ,84990,67.0,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,1024.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+477,477,HP,HP 15s-eq2223AU Laptop ,43790,,5th,6,12,8,DDR4,AMD Ryzen 5 5500U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+478,478,Lenovo,Lenovo ThinkPad E14 21EBS02M0 Laptop ,56490,60.0,5th,6,12,8,DDR4,AMD Ryzen 5 5625U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+479,479,MSI,MSI Modern 15 B7M-072IN Laptop ,46990,,7th,6,12,8,‎DDR4,AMD Ryzen 5 7530U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+480,480,Asus,Asus Vivobook S14 S3402ZA-LY522WS Laptop ,62990,65.0,12th,12,16,8,DDR4,Intel Core i5 12500H,512.0,Intel Integrated Iris Xe, 1920 x 1200 ,No,14,Windows 11,1 Year Warranty
+481,481,Dell,Dell XPS 9315 D560076WIN9S Laptop ,135000,68.0,12th,10,12,16,DDR4,Intel Core i5 1230U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,13,Windows 11,1 Year Warranty
+482,482,Acer,Acer Extensa 15 EX215-23 2023 Laptop ,34990,,7th,4,8,8,LPDDR5,AMD Ryzen 3 7320U,256.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+483,483,Lenovo,Lenovo IdeaPad 3 15ITL6 82H803DNIN Laptop ,39990,60.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+484,484,MSI,MSI Modern 15 B7M-071IN Laptop ,49990,,7th,8,16,16,‎DDR4,AMD Ryzen 7 7730U,1024.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+485,485,Lenovo,Lenovo Thinkbook 15 21DJA049IH Laptop ,61490,66.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+486,486,Lenovo,Lenovo Ideapad Flex 5 14IAU7 82R700C1IN Laptop ,77990,70.0,12th,10,12,16,LPDDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Integrated, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+487,487,Lenovo,Lenovo Thinkpad E15 21E6S05G00 Laptop ,65599,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,DOS,1 Year Warranty
+488,488,Asus,Asus ROG Zephyrus Duo 16 ,429990,,7th,16,32,32,DDR5,AMD Ryzen 9  7945HX,2048.0,16 GB NVIDIA GeForce RTX 4090, 3840 x 2400 ,No,16,Windows 11,1 Year Warranty
+489,489,Dell,Dell Vostro 5620 M552319WIN9S Laptop ,93990,72.0,12th,12,16,16,DDR4,Intel Core i7 1260P,512.0,2 GB NVIDIA GeForce MX570, 1920 x 1080 ,No,16,Windows 11 ,1 Year Warranty
+490,490,Dell,Dell Vostro 3425 M552321WIN9S Laptop ,59690,68.0,5th,6,12,16,DDR4,AMD Ryzen 5 5625U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+491,491,Lenovo,Lenovo E41-55 82FJ00A0IH Laptop ,29990,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,1024.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+492,492,Asus,Asus Vivobook Go 15 OLED 2023 E1504FA-LK541WS Laptop ,59990,,7th,4,8,16,LPDDR5,AMD Ryzen 5 7520U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+493,493,Lenovo,Lenovo Thinkpad P16s 21BTS03200 Laptop ,155990,79.0,12th,12,16,32,DDR4,Intel Core i7 1260P,1024.0,4 GB Nvidia Quadro T550, 1920 x 1200 ,No,16,Windows 11,3 Year Warranty
+494,494,Lenovo,Lenovo S14 Gen 3 ‎82C3001WGE Laptop ,54999,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+495,495,Lenovo,Lenovo ThinkBook 14 20VDA0V1IH Laptop ,40499,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel UHD Graphics, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+496,496,Asus,Asus Vivobook 14 OLED 2023 M1405YA-KM541WS Laptop ,68090,67.0,7th,6,12,16,LPDDR4,AMD Ryzen 5 7530U,512.0,Integrated AMD Radeon Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+497,497,HP,HP Chromebook 15a-na0012TU Laptop ,23990,,,2,2,4,LPDDR4x,,128.0,Intel Integrated UHD Graphics, 1366 x 768 ,No,15.6,Chrome,1 Year Warranty
+498,498,HP,HP Chromebook x360 13b-ca0006MU Laptop ,43990,,,8,,8,LPDDR4x-,,256.0,MediaTek Integrated Arm Mali Graphics, 1920 x 1080 ,Yes,13.3,Chrome,1 Year Warranty
+499,499,Lenovo,Lenovo V14 82KAA08BIH Laptop ,32999,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+500,500,HP,HP 255 G8 689T4PA Laptop ,30990,,3rd,2,4,8,DDR4,AMD Ryzen 3 3250U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+501,501,Lenovo,Lenovo V15 G3 82TTA01EIN Laptop ,37300,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,DOS,1 Year Warranty
+502,502,Asus,Asus Vivobook Go 14 2023 E1404FA-NK542WS Laptop ,52990,60.0,7th,4,8,16,LPDDR5,AMD Ryzen 5 7520U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+503,503,Asus,Asus ROG Zephyrus M16 2023 GU604VZ-NM050WS Laptop ,299990,89.0,13th,14,20,32,DDR5,Intel Core i9 13900H,1024.0,12 GB NVIDIA GeForce RTX 4080, 2560 x 1600 ,No,16,Windows 11 ,1 Year Warranty
+504,504,Asus,Asus ROG Zephyrus Duo 16 ,379990,,7th,16,32,32,DDR5,AMD Ryzen 9  7945HX,2048.0,12 GB NVIDIA GeForce RTX 4080, 3840 x 2400 ,No,16,Windows 11,1 Year Warranty
+505,505,Asus,Asus ROG Zephyrus M16 2023 GU604VY-NM058WS Laptop ,364990,,13th,14,20,32,DDR5,Intel Core i9 13900H,2048.0,16 GB NVIDIA GeForce RTX 4090, 2560 x 1600 ,No,16,Windows 11 ,1 Year Warranty
+506,506,Asus,Asus Vivobook Go 14 2023 E1404FA-NK522WS Laptop ,48990,,7th,4,8,8,LPDDR5,AMD Ryzen 5 7520U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+507,507,Asus,Asus ROG Strix Scar 17 2023 G733PZ-LL046WS Gaming Laptop ,269990,85.0,7th,16,32,16,DDR5,AMD Ryzen 9  7945HX,1024.0,12 GB NVIDIA GeForce RTX 4080, 2560 x 1440 ,No,17.3,Windows 11,1 Year Warranty
+508,508,Asus,Asus ROG Strix SCAR 18 2023 G834JY-N6056WS Gaming Laptop ,359990,84.0,13th,24,32,32,DDR5,Intel Core i9 13980HX,1024.0,16 GB NVIDIA GeForce RTX 4090, 2560 x 1600 ,No,18,Windows 11,1 Year Warranty
+509,509,Acer,Acer Nitro 5 AN515-58 UN.QFHSI.002 Gaming Laptop ,78990,71.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+510,510,MSI,MSI Modern 14 C12M-445IN Laptop ,39990,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+511,511,MSI,MSI Modern 14 C7M-063IN Laptop ,42990,60.0,7th,6,12,8,DDR4,AMD Ryzen 5 7530U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+512,512,MSI,MSI Summit E16 Flip A13VET-068IN Laptop ,185990,86.0,13th,12,16,32,LPDDR5,Intel Core i7 1360P,1024.0,6 GB NVIDIA GeForce RTX 4050, 2560 x 1600 ,Yes,16,Windows 11,2 Year Warranty
+513,513,MSI,MSI Summit E13 Flip Evo A13MT-226IN Laptop ,114131,77.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,1024.0,Intel Integrated Iris Xe, 1920 x 1200 ,Yes,13.4,Windows 11,2 Year Warranty
+514,514,Asus,Asus ROG Strix SCAR 16 2023 G634JY-NM054WS Gaming Laptop ,339990,89.0,13th,24,32,32,DDR5,Intel Core i9 13980HX,1024.0,16 GB NVIDIA GeForce RTX 4090, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+515,515,MSI,MSI Modern 14 C12M-439IN Laptop ,48990,,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+516,516,MSI,MSI Modern 14 C12M-440IN Laptop ,46990,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+517,517,MSI,MSI Prestige 13 Evo A13M-063IN Laptop,121990,72.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,1024.0,Intel Integrated Iris Xe, 1920 x 1200 ,No,13.3,Windows 11,2 Year Warranty
+518,518,MSI,MSI Modern 15 B13M-290IN  Laptop ,68990,60.0,13th,10,12,8,DDR4,Intel Core i7 1355U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+519,519,MSI,MSI Thin GF63 12VE-079IN Gaming Laptop ,109380,75.0,12th,10,16,8,DDR4,Intel Core i7 12650H,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+520,520,Acer,Acer Extensa 15 EX215-33 2023 Laptop ,36990,,,8,8,8,LPDDR5,,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+521,521,HP,HP 247 G8 ‎796Z3PA Laptop ,26890,,3rd,2,4,8,DDR4,AMD Ryzen 3 3250U,512.0,AMD Radeon Graphics, 1366 x 768 ,No,14,DOS,1 Year Warranty
+522,522,MSI,MSI Sword 15 A12UDX-468IN Gaming Laptop ,106104,74.0,12th,8,12,16,DDR5,Intel Core i5 12450H,1024.0,6 GB NVIDIA GeForce RTX RTX3050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+523,523,Asus,Asus Vivobook Go 14 2023 E1404FA-NK322WS Laptop ,37990,,7th,4,8,8,LPDDR5,AMD Ryzen 3 7320U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+524,524,Acer,Acer Aspire 3 A315-24P NX.KDESI.003 Laptop ,39990,,7th,4,8,8,LPDDR5,AMD Ryzen 3 7320U,512.0,AMD Radeon Graphiics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+525,525,LG,LG Gram ‎‎16T90Q-G.AH75A2 Laptop ,119000,72.0,12th,12,16,16,LPDDR5,Intel Core i7 1260P,512.0,Intel Iris Xe Graphics, 2560 x 1600 ,Yes,16,Windows 11,1 Year Warranty
+526,526,Acer,Acer Extensa 15 EX215-33 Laptop ,33990,,,8,8,8,LPDDR5,,256.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+527,527,MSI,MSI Prestige 16 Evo A13M-266IN Laptop,129990,70.0,13th,14,20,16,LPDDR5,Intel Core i7 13700H,1024.0,Intel Integrated Iris Xe, 2560 x 1600 ,No,16,Windows 11,2 Year Warranty
+528,528,MSI,MSI Prestige 14 Evo B13M-279IN Laptop,114989,67.0,13th,14,20,16,LPDDR5,Intel Core i7 13700H,1024.0,Intel Integrated Iris Xe, 1920 x 1200 ,No,14,Windows 11,2 Year Warranty
+529,529,Acer,Acer Nitro 5 AN515-47 NH.QL3SI.001 Gaming Laptop ,79990,71.0,7th,6,12,8,DDR5,AMD Ryzen 5 7535HS,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+530,530,Acer,Acer Extensa 15 EX215-23 Laptop ,36990,,7th,4,8,8,LPDDR5,AMD Ryzen 3 7320U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+531,531,MSI,MSI Modern 14 C13M-436IN Laptop ,59990,,13th,10,12,16,DDR4,Intel Core i5 1335U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+532,532,MSI,MSI Modern 15 B13M-289IN Laptop ,61990,,13th,10,12,16,DDR4,Intel Core i5 1335U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+533,533,MSI,MSI Modern 14 C13M-435IN Laptop ,69990,61.0,13th,10,12,16,DDR4,Intel Core i7 1355U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+534,534,HP,HP 14s-dr5016TU Laptop ,61990,62.0,12th,12,16,8,DDR4,Intel Core i5 1240P,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+535,535,Asus,Asus ROG Strix SCAR 18 2023 G834JZ-N5041WS Gaming Laptop ,279990,81.0,13th,24,32,32,DDR5,Intel Core i9 13980HX,1024.0,12 GB NVIDIA GeForce RTX 4080, 1920 x 1200 ,No,18,Windows 11,1 Year Warranty
+536,536,Asus,Asus ROG Strix SCAR 16 2023 G634JZ-N4062WS Gaming Laptop ,279990,83.0,13th,24,32,32,DDR5,Intel Core i9 13980HX,1024.0,12 GB NVIDIA GeForce RTX 4080, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+537,537,HP,HP Spectre x360 14-ef0075TU Laptop ,150490,73.0,12th,10,12,16,LPDDR4x,Intel Core i7 1255U,1024.0,Intel Iris Xe Graphics, 3000 x 2000 ,Yes,13.5,Windows 11,1 Year Warranty
+538,538,MSI,MSI Stealth 17 A13VH-055IN Gaming Laptop ,481586,,13th,14,20,64,DDR5,Intel Core i9 13900H,2048.0,12 GB Nvidia GeForce RTX4080, 3840 x 2160 ,No,17.3,Windows 11,2 Year Warranty
+539,539,MSI,MSI Modern 14 C13M-437IN Laptop ,56990,,13th,10,12,8,DDR4,Intel Core i5 1335U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+540,540,Asus,Asus Vivobook Flip 14 2023 TN3402YAB-LZ522WS Laptop ,68990,68.0,7th,6,12,8,DDR4,AMD Ryzen 5 7530U,512.0,AMD Radeon AMD, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+541,541,MSI,MSI Sword 15 A12VE-402IN Gaming Laptop ,132773,74.0,12th,10,16,16,DDR5,Intel Core i7 12650H,1024.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+542,542,Asus,Asus Zenbook 14 2023 UM3402YA-KP551WS Laptop ,91990,70.0,7th,6,12,16,DDR5,AMD Ryzen 5 7530U,1024.0,AMD Radeon AMD, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+543,543,MSI,MSI Katana 15 B13VFK-296IN Gaming Laptop ,160813,76.0,13th,10,16,16,DDR5,Intel Core i7 13620H,1024.0,8 GB NVIDIA GeForce RTX 4060, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+544,544,MSI,MSI Thin GF63 12VE-070IN Gaming Laptop ,94990,73.0,12th,10,16,16,DDR4,Intel Core i7 12650H,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+545,545,Acer,Acer Aspire 5 UN.K3JSI.004 Laptop ,57999,67.0,12th,10,12,12,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphic, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+546,546,Acer,Acer Nitro 5 AN515-47 NH.QL3SI.003 Gaming Laptop ,89990,67.0,7th,8,16,8,DDR5,AMD Ryzen 7 7735HS,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+547,547,Asus,Asus Vivobook 16 2023 M1605YA-MB541WS Laptop ,56990,64.0,7th,6,12,16,DDR4,AMD Ryzen 5 7530U,512.0,AMD Radeon AMD, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+548,548,HP,HP Chromebook 15a-na0008TU Laptop ,23990,,,2,2,4,LPDDR4x,,128.0,Intel Integrated UHD Graphics, 1366 x 768 ,No,15.6,Chrome,1 Year Warranty
+549,549,Asus,Asus Zenbook 14 OLED 2023 UM3402YA-KM741WS Laptop ,96990,70.0,7th,8,16,16,LPDDR4X,AMD Ryzen 7 7730U,512.0,AMD Radeon AMD, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+550,550,MSI,MSI Modern 14 C13M-438IN Laptop ,45990,,13th,6,8,8,DDR4,Intel Core i3 1315U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+551,551,MSI,MSI Modern 15 B13M-288IN Laptop ,71990,60.0,13th,10,12,16,DDR4,Intel Core i7 1355U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+552,552,MSI,MSI Prestige 16 Studio A13VE-031IN Laptop ,175990,74.0,13th,14,20,16,LPDDR5,Intel Core i7 13700H,1024.0,6 GB NVIDIA GeForce RTX 4050, 2560 x 1600 ,No,16,Windows 11,2 Year Warranty
+553,553,MSI,MSI Modern 15 B13M-291IN Laptop ,58990,,13th,10,12,8,DDR4,Intel Core i5 1335U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+554,554,Lenovo,Lenovo Thinkpad E15 21E6S05E00 Laptop ,45390,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,DOS,1 Year Warranty
+555,555,Asus,Asus Zenbook 14 2023 UM3402YA-KP541WS Laptop ,86990,68.0,7th,6,12,16,DDR5,AMD Ryzen 5 7530U,512.0,AMD Radeon AMD, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+556,556,Asus,Asus Zenbook 14 2023 UM3402YA-KP751WS Laptop ,101990,71.0,7th,8,16,16,DDR5,AMD Ryzen 7 7730U,1024.0,AMD Radeon AMD, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+557,557,Asus,Asus Vivobook Go 15 2023 E1504FA-NJ543WS Laptop ,53990,60.0,7th,4,8,16,LPDDR5,AMD Ryzen 5 7520U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+558,558,Asus,Asus Vivobook 15 OLED 2023 M1505YA-LK741WS Laptop ,73990,68.0,7th,8,16,16,DDR4,AMD Ryzen 7 7730U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+559,559,Asus,Asus Vivobook 15 OLED 2023 M1505YA-LK541WS Laptop ,65990,65.0,7th,6,12,16,DDR4,AMD Ryzen 5 7530U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+560,560,Asus,Asus Vivobook Go 15 2023 E1504FA-NJ522WS Laptop ,47990,,7th,4,8,8,LPDDR5,AMD Ryzen 5 7520U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+561,561,MSI,MSI Modern 14 C12M-446IN Laptop ,42990,,12th,6,8,8,DDR4,Intel Core i3 1215U,256.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+562,562,HP,HP Pavilion Aero 13-be2057AU Laptop ,67990,66.0,7th,6,12,16,LPDDR5,AMD Ryzen 5 7535U,512.0,AMD Radeon AMD, 1920 x 1200 ,No,13.3,Windows 11,1 Year Warranty
+563,563,HP,HP Pavilion Aero 13-be2047AU Laptop ,78490,69.0,7th,8,16,16,LPDDR5,AMD Ryzen 7 7735U,1024.0,AMD Radeon AMD, 1920 x 1200 ,No,13.3,Windows 11,1 Year Warranty
+564,564,MSI,MSI Thin GF63 12VE-080IN Gaming Laptop ,96762,71.0,12th,10,16,8,DDR4,Intel Core i7 12650H,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+565,565,Lenovo,Lenovo Yoga Slim 7 ProX 82TK00AFIN Laptop ,159990,81.0,12th,14,20,16,LPDDR5,Intel Core i7 12700H,1024.0,4 GB NVIDIA GeForce RTX 3050, 3072 x 1920 ,Yes,14.5,Windows 11,3 Year Warranty
+566,566,Lenovo,Lenovo ThinkPad E14 21E3S0AV00 Laptop ,48100,62.0,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0, Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+567,567,Asus,Asus Zenbook 14 OLED 2023 UM3402YA-KM751WS Laptop ,101990,71.0,7th,8,16,16,LPDDR4X,AMD Ryzen 7 7730U,1024.0,AMD Radeon AMD, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+568,568,Asus,Asus Vivobook Go 15 OLED 2023 E1504FA-LK521WS Laptop ,53990,,7th,4,8,8,LPDDR5,AMD Ryzen 5 7520U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+569,569,Asus,Asus Vivobook Flip 14 2023 TN3402YAB-LZ541WS Laptop ,74990,67.0,7th,6,12,16,DDR4,AMD Ryzen 5 7530U,512.0,AMD Radeon AMD, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+570,570,Asus,Asus Zenbook 14 OLED 2023 UM3402YA-KM541WS Laptop ,74990,67.0,7th,6,12,16,LPDDR4X,AMD Ryzen 5 7530U,512.0,AMD Radeon AMD, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+571,571,Asus,Asus Vivobook 16 2023 M1605YA-MB741WS Laptop ,70990,65.0,7th,8,16,16,DDR4,AMD Ryzen 7 7730U,512.0,AMD Radeon AMD, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+572,572,Asus,Asus Vivobook 16 2023 M1605YA-MB531WS Laptop ,56990,62.0,7th,6,12,8,DDR4,AMD Ryzen 5 7530U,1024.0,AMD Radeon AMD, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+573,573,Asus,Asus Vivobook Go 15 OLED 2023 E1504FA-LK322WS Laptop ,42990,,7th,4,8,8,LPDDR5,AMD Ryzen 3 7320U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+574,574,HP,HP Victus 15-Fa0117TX Laptop ,69490,72.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+575,575,Lenovo,Lenovo ThinkPad E14 G3 20Y7S08700 Laptop ,52799,,5th,6,12,8,,AMD Ryzen 5 5500U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+576,576,Samsung,Samsung Galaxy Book 2 Pro 360 13 NP930QED-KB4IN Laptop ,123490,68.0,12th,12,16,16,LPDDR5,Intel Core i5 1240P,512.0,Intel Iris Xe Graphics, 1080 x 1920 ,Yes,13.3,Windows 11,1 Year Warranty
+577,474,Acer,Acer Nitro 5 AN515-58 2023 Gaming Laptop ,108000,77.0,12th,14,20,16,DDR4,Intel Core i7 12700H,1024.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,
+578,578,Lenovo,Lenovo IdeaPad Flex 5 Gen 7 82R9006DIN Laptop ,92290,66.0,5th,6,12,16,LPDDR4X,AMD Ryzen 5 5500U,512.0,AMD Radeon AMD, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+579,579,Samsung,Samsung Galaxy Book 3 NP750XFG-KA2IN Laptop ,74990,,13th,10,12,16,LPDDR4x,Intel Core i5 1335U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+580,580,Tecno,Tecno Megabook T1 Laptop ,45990,,11th,4,8,8,DDR4,Intel Core i5 1155G7,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+581,581,HP,HP 245 G8 689T5PA Laptop ,42990,60.0,5th,6,12,8,DDR4,AMD Ryzen 5 5500U,512.0,AMD Radeon AMD, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+582,582,Acer,Acer Swift Go 14 NX.KG3SI.002 Laptop ,59990,,7th,6,12,8,,AMD Ryzen 5  7530U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+583,583,Lenovo,Lenovo Thinkbook 15 21DJA0D8IH Laptop ,91990,66.0,12th,10,12,16,DDR4,Intel Core i7 1255U,1024.0,Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+584,584,MSI,MSI Raider GE78HX 13VI-087IN Gaming Laptop ,489990,,13th,24,32,64,DDR5,Intel Core i9 13980HX,2048.0,16 GB NVIDIA GeForce RTX 4090, 2560 x 1600 ,No,17,Windows 11,2 Year Warranty
+585,585,Lenovo,Lenovo IdeaPad 3 14IAU7 82RJ0050IN Laptop ,43990,62.0,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+586,586,HP,HP Pavilion 15-eh2047AU Laptop ,60990,60.0,5th,6,12,16,DDR4,AMD Ryzen 5  5625U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11 ,1 Year Warranty
+587,587,HP,HP 14s-ef1002TU Laptop ,48490,60.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+588,588,MSI,MSI Stealth 15 A13VE-034IN Gaming Laptop ,144990,75.0,13th,10,16,16,DDR5,Intel Core i7 13620H,1024.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+589,589,MSI,MSI Cyborg 15 A12VF-070IN Gaming Laptop ,118938,67.0,12th,10,16,16,DDR5,Intel Core i7 12650H,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+590,590,MSI,MSI Raider GE78HX 13VH-089IN Gaming Laptop ,404758,,13th,16,24,32,DDR5,Intel Core i7 13700HX,2048.0,12 GB NVIDIA GeForce RTX 4080, 2560 x 1600 ,No,17,Windows 11,2 Year Warranty
+591,591,Asus,Asus Vivobook 15 X1502ZA-EJ332WS Laptop ,41990,,12th,10,12,8,DDR4,Intel Core i3 1220P,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+592,592,Asus,Asus Vivobook 15 X1502ZA-EJ592WS Laptop ,58900,,12th,12,16,16,DDR4,Intel Core i5 1240P,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+593,593,HP,HP ZBook Firefly 15 G8 381M7PA Laptop ,125910,,11th,4,8,16,,Intel Core i7 1165G7,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 10,3 Year Warranty
+594,594,HP,HP Envy x360 13-bf0018TU Laptop ,90990,62.0,12th,10,12,16,LPDDR4X,Intel Core i5 1230U,512.0,Intel Iris Xe, 1920 x 1200 ,Yes,13.3,Windows 11,1 Year Warranty
+595,595,HP,HP Omen 17-ck2004TX Gaming Laptop ,269990,86.0,13th,24,32,32,DDR5,Intel Core i9 13900HX,1024.0,12 GB NVIDIA GeForce 4080, 2560 x 1440 ,No,17.3,Windows 11 ,1 Year Warranty
+596,596,HP,HP Envy x360 15-ew0021TX Laptop ,104999,71.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Iris X Graphics, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+597,597,Razer,Razer Blade 15 Advanced RZ09-0421NEC3-R3U1 Gaming Laptop ,358999,78.0,12th,14,20,16,DDR5,Intel Core i7 12800H,1024.0,8 GB NVIDIA GeForce RTX 3070 Ti,,No,15.6,Windows 11,1 Year Warranty
+598,598,Lenovo,Lenovo Yoga Slim 7i Carbon 13IAP7 82U90080IN Laptop ,129990,73.0,12th,12,16,16,LPDDR5,Intel Core i7 1260P,1024.0,Intel Integrated Iris Xe, 2560 x 1600 ,Yes,13.3,Windows 11,3 Year Warranty
+599,599,MSI,MSI Thin GF63 12VE-071IN Gaming Laptop ,93470,73.0,12th,10,16,16,DDR4,Intel Core i7 12650H,512.0,6 GB NVIDIA GeForce RTX 4050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+600,600,MSI,MSI Katana 17 B13UDXK-255IN Gaming Laptop ,110990,70.0,13th,10,16,16,DDR5,Intel Core i7 13620H,512.0,6 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,17.3,Windows 11,2 Year Warranty
+601,601,Asus,Asus ROG Zephyrus G15 GA503RMZ-HQ154WS Gaming Laptop ,145990,78.0,6th,8,16,16,DDR5,AMD Ryzen 7 6800HS,1024.0,6 GB NVIDIA GeForce RTX 3060, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+602,602,MSI,MSI Vector GP77 13VG-055IN Gaming Laptop ,273482,86.0,13th,14,20,32,DDR5,Intel Core i7 13700H,1024.0,8 GB NVIDIA GeForce RTX 4070, 2560 x 1440 ,No,17.3,Windows 11,2 Year Warranty
+603,603,MSI,MSI Katana 17 B13VFK-253IN Gaming Laptop ,139990,75.0,13th,10,16,16,DDR5,Intel Core i7 13620H,1024.0,8 GB NVIDIA GeForce RTX 4060, 1920 x 1080 ,No,17.3,Windows 11,2 Year Warranty
+604,604,MSI,MSI Raider GE78HX 13VH-088IN Gaming Laptop ,359990,,13th,24,,32,DDR5,Intel Core i9 13950HX,2048.0,12 GB NVIDIA GeForce RTX 4080, 2560 x 1600 ,No,17,Windows 11,2 Year Warranty
+605,605,MSI,MSI Creator Z16P B12UMST-211IN Gaming Laptop ,485990,,12th,14,20,64,DDR5,Intel Core i9 12900H,2048.0,16 GB NVIDIA GeForce RTX A5500, 2560 x 1600 ,Yes,16,Windows 11,2 Year Warranty
+606,606,Infinix,Infinix INBook Y1 Plus XL28 Laptop ,29990,,10th,2,4,8,LPDDR4X,Intel Core i3 1005G1,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+607,607,HP,HP Pavilion 14s-dq5007tu Laptop ,61380,62.0,12th,12,16,8,DDR4,Intel Core i5 1240P,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+608,608,HP,HP Victus 15-fb0107AX Gaming Laptop ,77990,73.0,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+609,609,HP,HP 255 G8 Laptop ,25499,,3rd,2,2,8,DDR4,AMD Athlon  3050U,256.0,‎AMD Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+610,610,Lenovo,Lenovo Legion 5 Pro 82JQ011EIN Laptop ,149999,81.0,5th,8,16,32,DDR4,AMD Ryzen 7 5800H,1024.0,8 GB NVIDIA GeForce RTX 3070, 2560 x 1600 ,No,16,Windows 11,3 Year Warranty
+611,611,HP,HP Victus 15-fb0888AX Gaming Laptop ,59490,68.0,5th,6,12,8,DDR4,AMD Ryzen 5 5600H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+612,612,Lenovo,Lenovo S14 G3 IAP Laptop ,56999,,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+613,577,Lenovo,Lenovo IdeaPad Gaming 3 82K201UGIN Laptop ,56990,68.0,5th,6,12,8,DDR4,AMD Ryzen 5 Hexa Core 5600H,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,15.6,Windows 11,
+614,614,Dell,Dell Inspiron 3511 D560908WIN9SE Laptop ,40990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,256.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11 ,1 Year Warranty
+615,615,Lenovo,Lenovo IdeaPad Slim 3 82KU0238IN Laptop ,50990,64.0,5th,6,12,16,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+616,616,Lenovo,Lenovo IdeaPad Slim 1 82VG009MIN Laptop ,40990,,,4,8,8,LPDDR5,,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+617,617,Acer,Acer Swift Edge OLED SFA16-41 NX.KAASI.001 Laptop ,138999,68.0,6th,8,16,16,LPDDR5,AMD Ryzen 7 Octa Core 6800U,1024.0,AMD Radeon AMD, 3840 x 2400 ,No,16,Windows 11,1 Year Warranty
+618,618,HP,HP 15s-du3595TU Laptop ,39990,,11th,4,8,8,DDR4,Intel Core i3 1125G4,256.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+619,619,Acer,Acer Swift X SFX16-51G NX.AYKSI.001 Laptop ,94990,61.0,11th,4,8,16,LPDDR4X,Intel Core i5 11320H,512.0,4 GB NVIDIA GeForce RTX 3050Ti, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+620,620,Acer,Acer Swift X SFX16-51G NX.AYLSI.001 Laptop ,114990,65.0,11th,4,8,16,LPDDR4X,Intel Core i7 11390H,1024.0,4 GB NVIDIA GeForce RTX 3050Ti, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+621,621,Acer,Acer Aspire 3 A315-24 Laptop ,42990,,7th,4,8,8,LPDDR5,AMD Ryzen 5 7520U,512.0,AMD Radeon Graphiics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+622,622,Samsung,Samsung Galaxy Book 3 Pro NP960XFG-KC1IN Laptop ,149990,72.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,512.0,‎Intel Iris Xe Graphics, 2880 x 1800 ,No,16,Windows 11,1 Year Warranty
+623,623,Samsung,Samsung Galaxy Book 3 Pro 14 NP940XFG-KC4IN Laptop ,139990,71.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,512.0,‎Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+624,624,Samsung,Samsung Galaxy Book 3 Pro 14 NP940XFG-KC1IN Laptop ,131990,70.0,13th,12,16,16,LPDDR5,Intel Core i5 1340P,512.0,‎Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+625,625,Samsung,Samsung Galaxy Book 3 Pro 14 NP940XFG-KC5IN Laptop ,155990,73.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,1024.0,‎Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+626,626,Samsung,Samsung Galaxy Book 3 Pro 360 NP960QFG-KA2IN Laptop ,155990,74.0,13th,12,16,16,LPDDR5,Intel Core i5 1340P,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,Yes,16,Windows 11,1 Year Warranty
+627,627,Samsung,Samsung Galaxy Book 3 Pro NP960XFG-KC2IN Laptop ,165990,73.0,13th,12,16,16,LPDDR5,Intel Core i7 1360P,1024.0,‎Intel Iris Xe Graphics, 2880 x 1800 ,No,16,Windows 11,1 Year Warranty
+628,628,Samsung,Samsung Galaxy Book 3 360 13 NP730QFG-KA3IN Laptop ,133990,68.0,13th,10,12,16,LPDDR4x,Intel Core i7 1355U,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,13.3,Windows 11,1 Year Warranty
+629,629,Samsung,Samsung Galaxy Book 3 360 NP750QFG-KA1IN Laptop ,122990,72.0,13th,12,16,16,LPDDR4x,Intel Core i7 1360P,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+630,630,Samsung,Samsung Galaxy Book 3 Pro 360 NP960QFG-KA1IN Laptop ,163990,80.0,13th,12,16,16,DDR5,Intel Core i7 1360P,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,Yes,16,Windows 11,1 Year Warranty
+631,631,Acer,Acer Swift 3 OLED SF314-71 NX.KAVSI.001 Laptop ,115999,68.0,12th,14,20,16,LPDDR5,Intel Core i7 12700H,1024.0,Intel Integrated Iris Xe, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+632,632,Dell,Dell Inspiron 15 3520 D560915WIN9S Laptop ,45890,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+633,633,HP,HP 245 G8 3S7L2PA Laptop ,24990,,3rd,2,4,4,DDR4,AMD Ryzen 3  3250U,1024.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+634,634,Lenovo,Lenovo V15 82KDA00YIH Laptop ,37760,,5th,6,12,8,DDR4,AMD Ryzen 5 5500U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,DOS,1 Year Warranty
+635,635,Lenovo,Lenovo V15 82KBA01KIH Laptop ,46499,,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,DOS,1 Year Warranty
+636,636,HP,HP Omen 16-n0091AX Gaming Laptop ,104990,68.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800H,512.0,4 GB NVIDIA GeForce RTX 3050Ti, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+637,637,Infinix,Infinix Zero Book Ultra Laptop ,84990,64.0,12th,14,20,16,LPDDR5,Intel Core i9 12900H,512.0,, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+638,638,Infinix,Infinix Zero Book Series ZL12 Laptop ,56990,60.0,12th,12,16,16,LPDDR5,Intel Core i5 12500H,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows,1 Year Warranty
+639,639,Lenovo,Lenovo V15 ITL 82KBA03JIH Laptop ,36990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+640,640,Dell,Dell Inspiron 3520 D560869WIN9B Laptop ,41590,,12th,6,8,8,DDR4,Intel Core i3 1215U,256.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+641,641,HP,HP 15s-eq2213AU Laptop ,37990,,5th,4,8,8,DDR4,AMD Ryzen 3 5300U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows,
+642,642,HP,HP Victus 16-d0310TX Gaming Laptop ,58990,71.0,11th,6,12,8,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+643,643,Asus,Asus Vivobook Pro 16X OLED N7601ZM-MQ931WS Gaming Laptop ,185000,89.0,12th,14,20,32,DDR5,Intel Core i9 12900H,1024.0,6 GB NVIDIA GeForce RTX 3060, 3840 x 2400 ,No,16,Windows 11,1 Year Warranty
+644,644,HP,HP Envy x360 15-ew0037TU Laptop ,78490,69.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+645,645,Dell,Dell G15-5520 D560897WIN9S Laptop ,138900,77.0,12th,14,20,16,DDR5,Intel Core i9 12900H,1024.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11 ,1 Year Warranty
+646,646,HP,HP Victus 16-d0311TX Gaming Laptop ,72495,73.0,11th,6,12,16,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+647,647,HP,HP Victus 16-e0333TX Gaming Laptop ,90490,72.0,5th,6,12,16,DDR4,AMD Ryzen 5  5600H,512.0,6 GB NVIDIA GeForce RTX3060, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+648,648,Lenovo,Lenovo V15 82KBA01TIH Laptop ,49490,62.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+649,649,MSI,MSI Katana GF66 12UD Gaming Laptop ,94990,75.0,12th,14,20,16,DDR4,Intel Core i7 12700H,512.0,4 GB NVIDIA GeForce RTX 3050Ti, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+650,650,HP,HP Envy x360 15-ew0043TU 2-in-1 Laptop ,90490,70.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+651,651,HP,HP Envy x360 15-ew0047TU 2-in-1 Laptop ,107999,71.0,12th,10,12,16,DDR4,Intel Core i7 1255U,512.0,Intel Iris X Graphics, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+652,652,Apple,Apple MacBook Pro 16 inch Laptop ,229990,,,12,,16,,,512.0,19-core GPU, 3456 x 2234 ,No,16.2,Mac,1 Year Warranty
+653,653,Apple,Apple MacBook Pro 14 inch Laptop ,229990,,,12,,16,,,1024.0,19-core GPU, 3024 x 1964 ,No,14.2,Mac,1 Year Warranty
+654,654,Apple,Apple MacBook Pro 14 inch Laptop ,285490,61.0,,12,,32,,,1024.0,30-core GPU, 3024 x 1964 ,No,14.2,Mac,1 Year Warranty
+655,655,HP,HP Pavilion Plus 14-eh0037TU Laptop ,82490,70.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,Intel Integrated Iris Xe, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+656,656,Samsung,Samsung Galaxy Book2 NP550XED-KA2IN Laptop ,64990,62.0,12th,10,12,16,LPDDR4,Intel Core i5 1235U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+657,657,Lenovo,Lenovo V15 82KDA01UIH Laptop ,32990,,5th,4,8,8,DDR4,AMD Ryzen 3 5300U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,DOS,1 Year Warranty
+658,658,Lenovo,Lenovo V15 ITL G2 82KBA033IH Laptop ,37999,61.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+659,659,Dell,Dell Vostro 3425 D552308WIN9B Laptop ,39990,60.0,5th,4,8,8,DDR4,AMD Ryzen 3  5425U,256.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+660,660,HP,HP 245 G8 ‎6E3Z1PA Laptop ,31399,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,512.0,AMD Radeon Graphics, 1366 x 768 ,No,14,DOS,1 Year Warranty
+661,661,MSI,MSI Modern 14 C12M-269IN Laptop ,42990,60.0,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+662,662,Dell,Dell Inspiron 5420 ICC-C782537WIN8 Laptop ,91958,67.0,12th,12,16,16,DDR4,Intel Core i5 1240P,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+663,663,Dell,Dell Inspiron 3520 Laptop ,60499,60.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+664,664,Chuwi,Chuwi CoreBook X Laptop ,33990,,12th,6,8,16,DDR4,Intel ‎Core i3 1215U,512.0,Intel HD Graphics, 2160 x 1440 ,No,14,Windows 11,1 Year Warranty
+665,665,Dell,Dell Vostro 3420 Laptop ,65490,60.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+666,613,Dell,Dell Inspiron 3520 D560917WIN9S 2022 Laptop ,63600,,12th,10,12,8,DDR4,Intel Core i5 1235U,1024.0,2 GB NVIDIA MX550 Graphics, 1920 x 1080 ,Yes,15.6,Windows 11,
+667,667,HP,HP Envy x360 15-ew0040TU Laptop ,81990,66.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+668,668,HP,HP Envy x360 15-ew0043TU Laptop ,89490,64.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+669,669,HP,HP Envy x360 15-ew0048TU Laptop ,108990,72.0,12th,10,12,16,DDR4,Intel Core i7 1255U,1024.0,Intel Integrated Iris Xe, 2880 x 1800 ,Yes,15.6,Windows 11,1 Year Warranty
+670,670,HP,HP Pavilion 14-ec1005AU Laptop ,56999,60.0,5th,6,12,16,DDR4,AMD Ryzen 5 5625U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+671,671,HP,HP Pavilion 14-ec1005AU Laptop ,70490,62.0,12th,12,16,16,DDR4,Intel Core i5 1240P,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+672,672,HP,HP Envy x360 13-ay1064AU 2-in-1 Laptop ,94500,71.0,5th,8,16,16,DDR4,AMD Ryzen 7  5800U,512.0,AMD Radeon Graphic, 1920 x 1080 ,Yes,13.3,Windows 11,1 Year Warranty
+673,673,Asus,Asus Vivobook Pro 15 OLED M3500QC-L1502WS Gaming Laptop ,72990,66.0,5th,6,12,16,DDR4,AMD Ryzen 5 5600H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+674,674,Asus,Asus ROG Zephyrus G15 GA503RSZ-HQ061WS Gaming Laptop ,211990,84.0,6th,8,16,16,DDR5,AMD Ryzen 9  6900HS​,1024.0,8 GB NVIDIA GeForce RTX 3070Ti, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+675,675,MSI,MSI Modern 14 C12M Laptop ,51990,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+676,676,MSI,MSI Modern 15 B12M Laptop ,64990,61.0,12th,10,12,16,DDR4,Intel Core i7 1255U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+677,677,MSI,MSI Modern 15 B12M Laptop ,54990,61.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+678,678,Samsung,Samsung Galaxy Book 2 Go Laptop ,49999,,3rd,8,,4,LPDDR4x,Qualcomm Snapdragon 7c Plus,128.0,Qualcomm Adreno, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+679,679,Asus,Asus Vivobook Pro 15 K6502HCB-LP901WS Gaming Laptop ,84990,70.0,11th,8,16,16,,Intel Core i9 11900H,512.0,4 GB NVIDIA RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+680,680,HP,HP Pavilion x360 14-ek0137TU Laptop ,57990,65.0,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+681,681,HP,HP 240 G8 4K5D5PA Business Laptop ,38887,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated, 1366 x 768 ,No,14,DOS,1 Year Warranty
+682,682,Lenovo,Lenovo E41-55 82FJ00B5IH Laptop ,18518,,3rd,2,2,4,DDR4,AMD Athlon  3050U,1024.0,AMD Radeon AMD, 1366 x 768 ,No,14,DOS,1 Year Warranty
+683,683,Lenovo,Lenovo E41-55 82FJ00ALIH Laptop ,18417,,3rd,2,2,4,DDR4,AMD Athlon  3150U,1024.0,AMD Radeon AMD, 1366 x 768 ,No,14,DOS,1 Year Warranty
+684,684,Lenovo,Lenovo E41-55 82FJ00BLIH Laptop ,19890,,3rd,2,2,4,DDR4,AMD Athlon  3050U,256.0,AMD Radeon AMD, 1366 x 768 ,No,14,Windows 10,1 Year Warranty
+685,685,Lenovo,Lenovo IdeaPad Flex 5 14ALC7 82R9006PIN Laptop ,66990,68.0,5th,6,12,16,,AMD Ryzen 5  5500U,512.0,AMD Radeon, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+686,686,Dell,Dell Inspiron 5620 Laptop ,98500,68.0,12th,10,12,16,DDR4,Intel Core i7 1255U,512.0,2 GB NVIDIA GeForce MX570, 1920 x 1080 ,No,16,Windows 11 ,1 Year Warranty
+687,687,Lenovo,Lenovo V14 Gen 2 ‎82C40019IX Laptop ,49000,,11th,4,8,8,,Intel Core i5 1135G7,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+688,688,Asus,Asus Vivobook 14 OLED UX3402ZA-KN531WS Laptop ,87990,68.0,12th,12,16,16,LPDDR5,Intel Core i5 1240P,512.0,Intel Iris Xe, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+689,689,Ultimus,Ultimus S151 NU14U2INC43VN-CS Laptop ,19490,,,2,2,4,DDR4,,128.0,Intel Integrated UHD Graphics, 1920 x 1080 ,No,14.1,Windows 11,1 Year Warranty
+690,690,Ultimus,Ultimus S151 NU14U2INC43VD-CS Laptop ,17490,,,2,2,4,DDR4,,128.0,Intel Integrated UHD Graphics, 1920 x 1080 ,No,14.1,DOS,1 Year Warranty
+691,691,Ultimus,Ultimus S152 NU15U2INC44VN-SG Laptop ,22490,,,2,2,4,DDR4,,256.0,Intel Integrated UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+692,692,Acer,Acer Aspire 5 A515-57 NX.K2VSI.002 Laptop ,39990,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+693,693,MSI,MSI Stealth GS66 12UGS-290IN Gaming Laptop ,195990,,12th,14,20,32,DDR5,Intel Core i7 12700H,1024.0,8 GB NVIDIA GeForce RTX 3070Ti, 2560 x 1440 ,No,15.6,Windows 11,2 Year Warranty
+694,694,HP,HP Envy x360 13-AY1065AU Laptop ,77990,64.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600U,512.0,AMD Radeon, 1920 x 1080 ,Yes,13.3,Windows 11,1 Year Warranty
+695,695,Acer,Acer Aspire 5 A515-57 Laptop ,57990,62.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphic, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+696,696,Lenovo,Lenovo IdeaPad Slim 3 82H802XXIN Laptop ,53900,62.0,11th,4,8,16,DDR4,Intel Core i5 1135G7,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+697,697,Gigabyte,Gigabyte G5 KE RC55KE Laptop ,79990,73.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+698,698,Gigabyte,Gigabyte G5 GE RC55GE Laptop ,62990,65.0,12th,12,16,8,DDR4,Intel Core i5 12500H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+699,699,Gigabyte,Gigabyte G5 ME RC55ME Laptop ,69990,67.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,4 GB NVIDIA GeForce RTX 3050 TI, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+700,700,Dell,Dell Inspiron 7420 D560918WIN9S Laptop ,76490,66.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Integrated UHD, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+701,701,HP,HP Envy x360 13-bf0085TU Laptop ,80800,62.0,12th,10,12,8,LPDDR4x,Intel Core i5 1230U,512.0,Intel Iris Xe Graphics, 1920 x 1200 ,Yes,13.3,Windows 11,1 Year Warranty
+702,702,Lenovo,Lenovo ThinkPad T14 20W0S1HU00 Laptop ,154999,68.0,11th,4,8,16,,Intel Core i7 1165G7,512.0,2 GB NVIDIA MX450, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+703,703,HP,HP 240 G8 689T7PA Business Laptop ,39749,,,,,8,DDR4,,512.0,,,No,,Linux,1 Year Warranty
+704,704,Asus,Asus Eeebook 14 E410KA-BV092W Laptop ,24790,,,2,2,4,,,256.0,Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+705,705,Lenovo,Lenovo ThinkPad E14 G3 20Y700B5IG Laptop ,74990,67.0,5th,8,16,16,DDR4,AMD Ryzen 7 5700U,512.0,AMD Raedon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+706,706,Lenovo,Lenovo V14 82KAA057IH Laptop ,37999,,11th,2,4,8,DDR4,Intel Core i3 1115G4,256.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+707,707,Acer,Acer Chromebook Enterprise Spin 513 R841LT-S6DJ Laptop ,111947,,2nd,8,,8,LPDDR4X,Qualcomm Snapdragon 7c,128.0,Qualcomm Adreno 618, 1920 x 1080 ,No,13.3,Chrome,1 Year Warranty
+708,708,Asus,Asus VivoBook 15 X1500EA-EJ701W Laptop ,64900,62.0,11th,4,8,16,DDR4,Intel Core i7 1165G7,512.0,Intel Iris Xe Graphics , 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+709,709,Dell,Dell Inspiron 3520 D560878WIN9S Laptop ,61690,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Integrated, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+710,710,Lenovo,Lenovo Ideapad Slim 3 81WB01FYIN Laptop ,33990,,10th,2,4,8,DDR4,Intel Core i3 10110U,256.0,Intel Integrated, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+711,711,Asus,Asus Vivobook 14 OLED UX3402ZA-KN731WS Laptop ,104990,68.0,12th,12,16,16,LPDDR5,Intel Core i7 1260P,512.0,Intel Iris Xe, 2880 x 1800 ,Yes,14,Windows 11,1 Year Warranty
+712,712,Dell,Dell Inspiron 3525 D560863WIN9B Laptop ,49490,61.0,5th,6,12,8,DDR4,AMD Ryzen 5  5625U,512.0,AMD Radeon Radeon, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+713,713,Asus,Asus TUF Gaming F15 FX506LHB-HN358W Gaming Laptop ,58990,62.0,10th,4,8,8,DDR4,Intel Core i5 10200H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11 ,1 Year Warranty
+714,714,Dell,Dell Alienware X17 R1 D569936WIN9 Gaming Laptop ,297000,78.0,11th,8,16,32,DDR4,Intel Core i9 11980HK,1024.0,16 GB NVIDIA GEFORCE RTX 3080, 1920 x 1080 ,No,17.3,Windows 11,1 Year Warranty
+715,715,Dell,Dell Vostro 3420 D552278WIN9S Laptop ,39490,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+716,716,Lenovo,Lenovo ‎ThinkPad E14 Gen 4 Laptop ,74000,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+717,717,Lenovo,Lenovo V15 82KBA02UIH Laptop ,36990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,256.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+718,718,Lenovo,Lenovo Thinkpad E14 Gen 2 20TAS0E800 Laptop ,87500,66.0,11th,4,8,16,DDR4,Intel Core i5 1135G7,512.0,Intel Iris Xe Graphics, 1080 x 1920 ,No,14,Windows 10,1 Year Warranty
+719,719,Dell,Dell Alienware M15 R7 Gaming Laptop ,168990,83.0,12th,14,20,16,DDR5,Intel Core i7 12700H,512.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+720,720,Lenovo,Lenovo Thinkpad P15v 21D8S00V00 Laptop ,185990,78.0,12th,14,20,32,DDR5,Intel Core i7 12800H,1024.0,4 GB Nvidia Quadro T1200, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+721,721,Asus,Asus Vivobook 16X M1603QA-MB512WS Laptop ,56990,67.0,5th,6,12,16,DDR4,AMD Ryzen 5 5600H,512.0,AMD Radeon Vega 7, 1200 x 1920 ,No,16,Windows 11,1 Year Warranty
+722,722,Microsoft,Microsoft Surface Laptop 5 ‎RBY-00023 15 inch ,134990,,12th,10,12,8,,Intel  Core i7 1255U,256.0,Intel Iris Xe, 2496 x 1664 ,Yes,15,Windows 11,1 Year Warranty
+723,723,Microsoft,Microsoft Surface Pro 9 ‎QCB-00014 Laptop ,102990,,12th,10,12,8,LPDDR5,Intel Core i5 1235U,128.0,Intel Iris Xe Graphics, 2880 x 1920 ,Yes,13,Windows 11,1 Year Warranty
+724,724,Microsoft,Microsoft Surface Pro 9 Laptop ,250990,65.0,12th,10,12,32,LPDDR5,Intel Core i7 1255U,1024.0,Intel Iris Xe Graphics, 2880 x 1920 ,Yes,13,Windows 11,1 Year Warranty
+725,725,Microsoft,Microsoft Surface Laptop 5 ‎RIP-00048 15 inch ,159990,62.0,12th,10,12,16,,Intel  Core i7 1255U,512.0,Intel Iris Xe, 2496 x 1664 ,Yes,15,Windows 11,1 Year Warranty
+726,726,Microsoft,Microsoft Surface Laptop 5 ‎RBG-00048 13.5 inch ,171108,65.0,12th,10,12,16,,Intel  Core i7 1255U,512.0,Intel Iris Xe, 2256 x 1504 ,Yes,13.5,Windows 11,1 Year Warranty
+727,727,Microsoft,Microsoft Surface Pro 9 ‎‎QIX-00031 Laptop ,192990,,12th,10,12,16,LPDDR5,Intel Core i7 1255U,512.0,Intel Iris Xe Graphics, 2880 x 1920 ,No,13,Windows 11,1 Year Warranty
+728,728,Microsoft,Microsoft Surface Pro 9 ‎QIL-00031 Laptop ,162990,,12th,10,12,16,LPDDR5,Intel Core i7 1255U,256.0,Intel Iris Xe Graphics, 2880 x 1920 ,Yes,13,Windows 11,1 Year Warranty
+729,729,Lenovo,Lenovo Legion 5 Pro 82RF00E1IN Gaming Laptop ,213900,,12th,14,20,32,DDR5,Intel Core i7 12700H,1024.0,8 GB NVIDIA GeForce RTX 3070Ti, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+730,730,Asus,Asus Vivobook 15 2022 X1502ZA-EJ514WS Laptop ,52900,61.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+731,731,Asus,Asus E410 Eeebook E410KA-BV003W Laptop ,24445,,,2,2,4,,,256.0,Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+732,732,Asus,Asus Vivobook 15 2022 X1502ZA-EJ515WS Laptop ,54990,61.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+733,666,Dell,Dell Inspiron 3520 2022 Laptop ,69490,66.0,12th,10,12,8,DDR4,Intel Core i5 1235U,1024.0,Intel Integrated , 1920 x 1080 ,No,15.6,Windows 11,
+734,734,Dell,Dell Inspiron 3520  D560868WIN9S Laptop ,81990,61.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,2 GB NVIDIA GeForce MX550, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+735,735,Lenovo,Lenovo V15 G2-ITL 82KBA034IH Laptop ,34990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,DOS,1 Year Warranty
+736,736,Dell,Dell Inspiron 5415 Laptop ,89976,61.0,5th,8,16,16,DDR4,AMD Ryzen 7  5700U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11 ,1 Year Warranty
+737,737,Asus,Asus VivoBook 15 X1500EA-EJ522WS Laptop ,45999,,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Iris Xe Graphics , 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+738,738,Dell,Dell XPS 9315 Laptop ,160621,,12th,10,12,16,LPDDR5,Intel Core i7 1250U,1024.0,Iris Xe, 1920 x 1080 ,Yes,13.4,Windows 11,1 Year Warranty
+739,739,Asus,Asus VivoBook 15 2022 X515JA-EJ592WS Laptop ,44990,,10th,4,8,8,DDR4,Intel Core i5 1035G1,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+740,740,Asus,Asus VivoBook 14 X415MA-BV102WS Laptop ,33980,,,4,,8,DDR4,,256.0,Intel Integrated UHD, 1366 x 768 ,No,14.1,Windows 11,1 Year Warranty
+741,741,Dell,Dell Inspiron 3520 Laptop ,67990,60.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,2 GB NVIDIA MX550, 1920 x 1080 ,Yes,15.6,Windows 11,1 Year Warranty
+742,742,Dell,Dell G15-5520 D560895WIN9S Laptop ,117728,79.0,12th,10,16,16,DDR5,Intel Core i7 12650H,512.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+743,743,Asus,Asus VivoBook 15 X515JA-EJ392WS Laptop ,35490,,10th,2,4,8,DDR4,Intel Core i3 1005G1,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+744,744,Lenovo,Lenovo IdeaPad Slim 3 82RK007JIN Laptop ,43990,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,‎Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+745,745,Acer,Acer Chromebook 311 C733 Laptop ,18490,,,2,2,4,DDR4,,32.0,Intel HD, 1366 x 768 ,No,11.6,Chrome,
+746,746,Dell,Dell Latitude 7420 Laptop ,117300,,11th,4,8,16,DDR4,Intel Core i7 1185G7,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 10,3 Year Warranty
+747,747,Lenovo,Lenovo IdeaPad 3 82KU017KIN Laptop ,44774,,5th,6,12,8,DDR4,AMD Ryzen 5 5500U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+748,748,Lenovo,Lenovo V15 82C3002VGE Laptop ,25999,,,2,2,4,DDR4,,256.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+749,749,Xiaomi,Xiaomi Book Air 13 Laptop ,68990,65.0,12th,10,12,16,LPDDR5,Intel Core i5 1230U,512.0,Intel  Iris Xe Graphics, 2880 x 1800 ,Yes,13.3,Windows 11,
+750,750,Lenovo,Lenovo IdeaPad Gaming 3 82K1017WIN Laptop ,55799,68.0,11th,4,8,8,DDR4,Intel Core i5 11300H,512.0,4 GB NVIDIA GeForce GTX 1650 , 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+751,751,Dell,Dell Vostro 3425 D552267WIN9S Laptop ,57990,62.0,5th,6,12,16,,AMD Ryzen 5 5625U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+752,752,Dell,Dell G15-5521 D560897WIN9S Gaming Laptop ,138990,69.0,12th,14,20,16,LPDDR5,Intel Core i9 12900H,1024.0,6 GB NVIDIA GEFORCE RTX 3060, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+753,753,Dell,Dell G15-5525 Gaming Laptop ,136990,75.0,6th,8,16,16,DDR5,AMD Ryzen 9 6900HX,1024.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+754,754,Dell,Dell G15-5521 D560899WIN9S Gaming Laptop ,175018,71.0,12th,14,20,16,LPDDR5,Intel Core i9 12900H,1024.0,8 GB NVIDIA GEFORCE RTX 3070 Ti, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+755,755,Dell,Dell G15-5525 D560894WIN9S Gaming Laptop ,109490,77.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800H,512.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+756,756,Dell,Dell G15-5525 D560898WIN9S Gaming Laptop ,146990,73.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800H,1024.0,8 GB NVIDIA GeForce RTX 3070 Ti, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+757,757,Lenovo,Lenovo V15 82KDA00XIH Laptop ,38499,,5th,6,12,8,DDR4,AMD Ryzen 5 5500U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+758,758,Dell,Dell Inspiron 7620 Laptop ,126990,61.0,12th,12,16,16,LPDDR4,Intel Core i7 1260P,512.0,2 GB NVIDIA GeForce MX550, 2560 x 1440 ,No,14.5,Windows 11,1 Year Warranty
+759,759,HP,HP 255 G8 6X4B2PA Laptop ,22490,,3rd,2,2,4,DDR4,AMD Athlon  3050U,256.0,‎AMD Integrated, 1920 x 1080 ,No,15.6,DOS,1 Year Warranty
+760,760,Asus,Asus TUF Gaming A15 FA506IHRZ-HN112W Laptop ,54990,67.0,4th,6,12,8,DDR4,AMD Ryzen 5  4600H,1024.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+761,761,Asus,Asus Vivobook 14 OLED X1405ZA-KM511WS Laptop ,69990,60.0,12th,10,12,16,LPDDR4,Intel Core i5 1235U,512.0,Intel Iris Xe, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+762,762,Asus,Asus Vivobook 14 OLED X1405ZA-KM311WS Laptop ,51940,,12th,6,8,8,LPDDR4,Intel Core i3 1215U,512.0,Intel Iris Xe, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+763,763,Lenovo,Lenovo ThinkPad X1 Carbon 21CB002JIG Laptop ,209990,,12th,10,12,16,,Intel Core i7 1255U,1024.0,Intel Iris Xe Graphics, 1920 x 1200 ,No,14,Windows 11,1 Year Warranty
+764,764,Dell,Dell Alienware M15 R6 Gaming Laptop ,200000,78.0,11th,8,16,16,DDR4,Intel Core i7 11800H,512.0,6 GB NVIDIA Geforce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+765,765,Asus,Asus Vivobook 15 OLED X1505ZA-L1311WS Laptop ,48990,,12th,6,8,8,DDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+766,766,Asus,Asus Vivobook 15 OLED X1505ZA-L1511WS Laptop ,67900,60.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+767,767,Lenovo,Lenovo Thinkbook 14 20VDA07JIH Laptop ,74000,60.0,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Integrated Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+768,768,Microsoft,Microsoft Surface Laptop 5 13.5 inch ,103009,,12th,10,12,8,,Intel  Core i5 1235U,256.0,Intel Iris Xe, 2256 x 1504 ,Yes,13.5,Windows 11,1 Year Warranty
+769,769,Microsoft,Microsoft Surface Pro 9 QEZ-00065 Laptop ,111111,,12th,10,12,8,LPDDR5,Intel Core i5 1235U,256.0,Intel Iris Xe Graphics, 2880 x 1920 ,Yes,13,Windows 11,1 Year Warranty
+770,770,Infinix,Infinix INBook X2 Plus XL25 Laptop ,57990,,11th,4,8,16,LPDDR4X,Intel Core i7 1195G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+771,771,Lenovo,Lenovo IdeaPad Slim 3 82RJ005CIN Laptop ,58990,,12th,10,12,8,,Intel Core i5 1235U,512.0,‎Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+772,772,Asus,Asus E410KA-BV002W Laptop ,24980,,,2,2,4,,,256.0,Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+773,773,MSI,MSI Creator Pro Z17 A12UMST-237IN Gaming Laptop ,435990,,12th,14,20,32,DDR5,Intel Core i7 12700H,1024.0,16 GB NVIDIA GeForce RTX A5500, 2560 x 1600 ,No,17,Windows 11,3 Year Warranty
+774,774,HP,HP 245 G8 62G68PA Laptop ,31999,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,1024.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+775,775,Lenovo,Lenovo IdeaPad Flex 5 82R90068IN Laptop ,76860,74.0,5th,8,16,16,DDR4,AMD Ryzen 7 5700U,512.0,AMD Radeon, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+776,776,Lenovo,Lenovo Yoga 6 82UD0069IN Laptop ,81990,68.0,5th,6,12,16,LPDDR4X,AMD Ryzen 5  5500U,512.0,AMD Radeon Graphics, 1920 x 1080 ,Yes,13.3,Windows 11,3 Year Warranty
+777,777,Honor,Honor MagicBook 14 M-WFQ9AHNE Laptop ,44990,,5th,6,12,16,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+778,778,HP,HP 14s-fq0567AU Laptop ,32999,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,256.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+779,779,HP,HP Omen 16-k0360TX Laptop ,161000,81.0,12th,14,20,16,DDR5,Intel Core i7 12700H,1024.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,16.1,Windows 11 ,1 Year Warranty
+780,780,Lenovo,Lenovo Thinkbook 15 21DJA04LIH Laptop ,64990,,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+781,781,HP,HP Omen 16-n0054AX Gaming Laptop ,130490,73.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800H,1024.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+782,782,Lenovo,Lenovo Thinkpad E14 21E3S05B00 Laptop ,125500,70.0,12th,10,12,16,DDR4,Intel Core i7 1255U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+783,783,Lenovo,Lenovo Ideapad Flex 5 82R70068IN Laptop ,71990,61.0,12th,10,12,8,LPDDR4x,Intel Core i5 1235U,512.0,Intel UHD, 1920 x 1200 ,Yes,14,Windows 11 ,1 Year Warranty
+784,784,HP,HP Omen 16-k0370TX Gaming Laptop ,170490,84.0,12th,14,20,16,DDR5,Intel Core i7 12700H,1024.0,8 GB NVIDIA GeForce 3070Ti, 1920 x 1080 ,No,16.1,Windows 11 ,1 Year Warranty
+785,785,Lenovo,Lenovo IdeaPad Slim 5 82SF004WIN Laptop ,72600,64.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+786,786,HP,HP Omen 16-n0051AX Gaming Laptop ,154490,80.0,6th,8,16,32,DDR5,AMD Ryzen 9 6900HX,1024.0,8 GB AMD Radeon RX 6650M Graphics, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+787,787,Lenovo,Lenovo Thinkpad E15 21DJA041IH Laptop ,61990,60.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+788,788,Lenovo,Lenovo ThinkPad E14 21E3S04X00 Laptop ,67990,65.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+789,789,Lenovo,Lenovo Thinkpad E15 21DJA04NIH Laptop ,85990,64.0,12th,10,12,16,DDR4,Intel Core i7 1255U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+790,790,HP,HP Omen 17-ck1023TX Gaming Laptop ,296000,,12th,16,24,32,DDR5,Intel Core i9 12900HX,2048.0,16 GB NVIDIA GeForce RTX 3080Ti, 2560 x 1440 ,No,17.3,Windows 11 ,1 Year Warranty
+791,791,HP,HP Victus 15-fb0082AX Gaming Laptop ,65999,71.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+792,792,HP,HP Omen 16-n0050AX Gaming Laptop ,104990,65.0,6th,8,16,16,DDR4,AMD Ryzen 7  6800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,16,Windows 11,1 Year Warranty
+793,793,HP,HP Omen 16-n0049AX Gaming Laptop ,105999,65.0,6th,8,16,16,DDR4,AMD Ryzen 7  6800H,512.0,4 GB NVIDIA GeForce RTX 3050Ti, 1920 x 1080 ,No,16,Windows 11,1 Year Warranty
+794,794,Lenovo,Lenovo V14 Gen 2 ITL 82KAA001IH Laptop ,49999,,11th,4,8,8,DDR4,Intel Core i5 1135G7,1024.0,Intel Integrated, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+795,795,Dell,Dell XPS 9315 Laptop ,132470,,12th,10,12,16,LPDDR5,Intel Core i7 1250U,512.0,Iris Xe, 1920 x 1080 ,Yes,13.4,Windows 11,1 Year Warranty
+796,847,Dell,Dell Latitude 3420 Laptop ,86000,64.0,11th,4,8,16,DDR4,Intel Core i5 1135G7,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,Yes,15.6,Windows 11,
+797,797,Lenovo,Lenovo Thinkpad E14 Gen 21E3S05800 Laptop ,98990,65.0,12th,10,12,16,DDR4,Intel Core i7 1255U,1024.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+798,798,Lenovo,Lenovo ThinkPad E14 21E3S04W00 Laptop ,70990,,12th,10,12,16,,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+799,799,Lenovo,Lenovo IdeaPad Gaming 3 82K201V2IN Laptop ,76990,73.0,5th,8,16,8,DDR4,AMD Ryzen 7  5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+800,800,Lenovo,Lenovo Yoga 9 82LU008TIN Laptop ,179990,68.0,12th,14,20,16,LPDDR5,Intel Core i7 1280P,1024.0,Intel Iris Xe Graphics, 3840 x 2160 ,No,14,Windows 11,1 Year Warranty
+801,801,Acer,Acer One 14 Z2-493 Business Laptop ,39990,,3rd,4,8,16,DDR4,AMD Ryzen 5 3500U,512.0,AMD Radeon Radeon Graphics, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+802,802,Gigabyte,Gigabyte G5 RC45MD Laptop ,65990,70.0,11th,6,12,16,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce RTX 3050 Ti, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+803,803,HP,HP Envy x360 13-bf0062TU Laptop ,104990,67.0,12th,10,12,16,LPDDR4x,Intel Core i7 1250U,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,Yes,13.3,Windows 11,1 Year Warranty
+804,804,Gigabyte,Gigabyte G5 RC45GD Laptop ,61990,70.0,11th,6,12,16,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+805,805,Gigabyte,Gigabyte G5 RC45KD Laptop ,79990,71.0,11th,6,12,16,DDR4,Intel Core i5 11400H,512.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+806,806,Fujitsu,Fujitsu UH-X 4ZR1K06212 Laptop ,89990,67.0,12th,10,12,16,,Intel Core i7 1255U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,13.3,Windows 11,2 Year Warranty
+807,807,Lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101EDIN Laptop ,68999,67.0,11th,4,8,8,DDR4,Intel Core i5 11300H,512.0,4 GB NVIDIA GeForce RTX 3050 Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+808,808,Lenovo,Lenovo IdeaPad Gaming 3 15IAH7 82S900KQIN Laptop ,74990,73.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+809,809,Honor,Honor MagicBook X15 BohrBR-WAH9F Laptop ,42990,,10th,4,8,8,DDR4,Intel Core i5 10210U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 10,
+810,810,Lenovo,Lenovo ThinkBook 14 20VDA0QTIH Laptop ,61999,,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel UHD Graphics, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+811,811,Acer,Acer TravelMate TMB311-31 Laptop ,28990,,,4,4,4,DDR4,,128.0,UHD Graphics 600, 1366 x 768 ,No,11.6,Windows 11,1 Year Warranty
+812,812,Lenovo,Lenovo IdeaPad Gaming 3 82K201YAIN Laptop ,55990,67.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+813,813,Dell,Dell Latitude 3420 Laptop ,67990,,11th,2,4,16,DDR4,Intel Core i3 1115G4,512.0,Intel UHD Graphics, 1366 x 768 ,No,14,Ubuntu,1 Year Warranty
+814,814,Lenovo,Lenovo ThinkPad E15 20TDS0T900 Laptop ,52000,,11th,2,4,8,DDR4,Intel Core i3 1115G4,256.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+815,815,Fujitsu,Fujitsu UH-X 4ZR1J37875 Laptop ,69990,67.0,12th,10,12,16,LPDDR4X,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,13.3,Windows 11,2 Year Warranty
+816,816,Fujitsu,Fujitsu UH-X 4ZR1J37876 Laptop ,89990,68.0,12th,10,12,16,LPDDR4X,Intel Core i7 1255U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,13.3,Windows 11,2 Year Warranty
+817,817,Dell,Dell Latitude 3420 2022 Laptop ,80750,66.0,11th,4,8,16,DDR4,Intel Core i5 1135G7,512.0,Intel UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+818,818,HP,HP 250 G8 6X4B3PA Laptop ,35990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel UHD, 1366 x 768 ,No,15.6,Windows 11,1 Year Warranty
+819,819,Microsoft,Microsoft Surface Studio ‎A1Y-00001 Laptop ,189990,70.0,11th,4,8,16,LPDDR4X,Intel Core i7 11370H,512.0,8 GB NVIDIA GeForce RTX 3050 Ti, 2400 x 1080 ,Yes,14.4,Windows 11,1 Year Warranty
+820,820,HP,HP Pavilion x360 14-ek0072TU Laptop ,77070,66.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+821,821,Acer,Acer Predator Helios 300 PH315-55s Spatial Labs Edition Gaming Laptop ,319990,83.0,12th,14,20,32,DDR5,Intel Core i9 12900H,2048.0,NVIDIA GeForce RTX 3030, 3840 x 2160 ,No,15.6,Windows 11,1 Year Warranty
+822,822,Lenovo,Lenovo IdeaPad Flex 5 82R70069IN Laptop ,79990,,12th,10,12,16,LPDDR4x,Intel Core i5 1235U,512.0,Intel Integrated Intel Iris Xe Graphics, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+823,823,Lenovo,Lenovo ThinkBook 15 20VE00W4IH Laptop ,77990,60.0,11th,4,8,16,DDR4,Intel Core i7 1165G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+824,824,Acer,Acer Nitro 5 AN515-46 Laptop ,84990,63.0,6th,6,12,8,DDR5,AMD Ryzen 5  6600H,1024.0,4 GB NVIDIA GeForce RTX 3050, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+825,825,Dell,Dell XPS 13 Plus Laptop ,171000,68.0,12th,12,16,16,LPDDR5,Intel Core i5 1240P,512.0,Intel Iris Xe Graphics, 3840 x 2400 ,Yes,13.4,Windows 11,1 Year Warranty
+826,826,HP,HP Envy x360 16-h0028TX Laptop ,143990,68.0,12th,10,12,16,LPDDR4x,Intel Core i7 1250U,512.0,Intel Iris X Graphics, 3840 x 2400 ,Yes,13.3,Windows 11,1 Year Warranty
+827,827,HP,HP Envy 16-h0025tx Laptop ,212999,75.0,12th,14,20,16,DDR5,Intel Core i9 12900H,1024.0,6 GB NVIDIA GeForce RTX 3060, 3840 x 2160 ,No,16,Windows 11 ,1 Year Warranty
+828,828,Honor,Honor MagicBook 15 WDQ9CHNE Laptop ,39990,,5th,6,12,8,DDR4,AMD Ryzen 5  5500U,256.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+829,829,Honor,Honor MagicBook 14 WDQ9BHNE Laptop ,41829,,5th,6,12,8,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+830,830,HP,HP Omen 17-ck1022TX Gaming Laptop ,199999,75.0,12th,16,24,32,DDR5,Intel Core i7 12800HX,1024.0,8 GB NVIDIA GeForce RTX 3070Ti, 2560 x 1440 ,No,16.1,Windows 11,1 Year Warranty
+831,831,Dell,Dell Inspiron 5320 Laptop ,79990,65.0,12th,12,16,16,DDR5,Intel Core i5 1240P,512.0,Intel Integrated UHD, 2560 x 1600 ,No,13.3,Windows 11,1 Year Warranty
+832,832,HP,HP Omen 16-n0079AX Gaming Laptop ,103190,80.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800H,512.0,8 GB AMD Radeon RX 6650M, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+833,833,Lenovo,Lenovo Legion 5 Pro 82RG009AIN Laptop ,159990,75.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800H,1024.0,6 GB NVIDIA GeForce RTX 3060, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+834,834,HP,HP Envy x360 13-bf0058TU Laptop ,93990,66.0,12th,10,12,16,LPDDR4x,Intel Core i5 1230U,512.0,Intel Iris X Graphics, 2880 x 1800 ,Yes,13.3,Windows 11,1 Year Warranty
+835,835,HP,HP Envy 16-h0026tx Laptop ,221499,77.0,12th,14,20,32,DDR4,Intel Core i9 12900H,1024.0,6 GB NVIDIA GeForce RTX 3060, 3840 x 2160 ,No,15.6,Windows 11 ,1 Year Warranty
+836,836,Lenovo,Lenovo Yoga Slim 7 Pro 82SV0053IN Laptop ,99490,62.0,12th,12,16,16,LPDDR5,Intel Core i7 1260P,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+837,837,HP,HP Envy x360 13-bf0063TU Laptop ,125500,70.0,12th,10,12,16,LPDDR4x,Intel Core i7 1250U,1024.0,Intel Iris X Graphics, 2880 x 1800 ,Yes,13.3,Windows 11,1 Year Warranty
+838,838,Asus,Asus TUF Gaming A15 2022 FA506QM-HN008W Gaming Laptop ,86990,70.0,5th,8,16,16,DDR4,AMD Ryzen 7  5800H,512.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+839,839,Lenovo,Lenovo Yoga 6 82UD0068IN 2-in-1 Laptop ,86600,62.0,5th,8,16,16,DDR4,AMD Ryzen 7  5700U,512.0,AMD Radeon, 1920 x 1080 ,Yes,13.3,Windows 11,3 Year Warranty
+840,840,Lenovo,Lenovo V14 G2-ITL 82KAA025IH Laptop ,41555,,11th,2,4,8,DDR4,Intel Core i3 1115G4,1024.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 10,1 Year Warranty
+841,841,HP,HP Chromebook 14a-na1004TU Laptop ,20990,,,2,2,4,LPDDR4,,64.0,Intel Integrated UHD Graphics, 1366 x 768 ,Yes,14,Chrome,1 Year Warranty
+842,842,Lenovo,Lenovo E41-55 AMD Laptop ,21999,,,2,2,8,,,1024.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+843,843,Lenovo,Lenovo V14-IIL 82C4019YIH Laptop ,45999,,10th,4,8,4,DDR4,Intel Core i5 1035G1,256.0,Intel Integrated UHD, 1366 x 768 ,No,14,Windows 10,1 Year Warranty
+844,844,Asus,Asus VivoBook 14 2022 X1402ZA-MW311WS Laptop ,49990,62.0,12th,10,12,8,DDR4,Intel Core i3 1220P,512.0,Intel Integrated UHD, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+845,845,Asus,Asus VivoBook 14 2022 X1402ZA-EK521WS Laptop ,51990,62.0,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+846,846,Asus,Asus VivoBook 14 2022 X1402ZA-MW512WS Laptop ,66990,66.0,12th,12,16,16,DDR4,Intel Core i5 1240P,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+847,1015,HP,HP 15s-dr3506TU Laptop ,42990,60.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,1024.0,Intel UHD Graphics, 1366 x 768 ,No,14,Windows 10 ,
+848,848,Lenovo,Lenovo E41-55 Laptop ,18990,,,2,2,8,DDR4,,256.0,AMD Radeon Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+849,849,HP,HP 250 G8 6G9R1PA Notebook ,34990,,11th,,,8,DDR4,Intel Core i3,512.0,,,No,,Linux,
+850,850,Lenovo,Lenovo Thinkpad E14 20TAS16300 Laptop ,45999,,11th,2,4,8,DDR4,Intel Core i3 1115G4,256.0,Intel ‎Integrated, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+851,851,Acer,Acer TravelMate TMP215-53 Laptop ,29990,,,2,4,4,DDR4,,1024.0,Intel Integrated, 1366 x 768 ,No,15.6,Windows 11,1 Year Warranty
+852,852,Honor,Honor MagicBook X 14 2022 Laptop ,52999,64.0,12th,10,12,16,LPDDR4x,Intel Core i5 1235U,512.0,Intel Iris Xe, 2240 x 1400 ,No,14,Windows 11,1 Year Warranty
+853,853,HP,HP 430 G8 366B1PA Business Laptop ,109900,,11th,,,8,DDR4,Intel Core i7-1165G7,512.0,,,No,,Linux,
+854,854,Honor,Honor Magicbook V14 2022 Laptop ,68999,70.0,12th,12,16,16,LPDDR5,Intel Core i5 12500H,512.0,Intel Iris Xe, 2520 x 1680 ,Yes,14.2,Windows 11,
+855,855,Honor,Honor MagicBook X 16 2022 Laptop ,52999,62.0,12th,10,12,16,LPDDR4x,Intel Core i5 1235U,512.0,Intel Iris Xe, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+856,856,Huawei,Huawei MateBook D14 Laptop ,77675,61.0,10th,4,8,8,DDR4,Intel Core i5 10210U,512.0,Intel UHD Graphics, 1920 x 1080 ,Yes,14,Windows 10,1 Year Warranty
+857,857,Asus,Asus VivoBook 14 2021 X415KA-BV121WS Laptop ,28990,,,4,4,8,DDR4,,256.0,Intel Integrated Intel UHD, 1366 x 768 ,No,14.1,Windows 11,1 Year Warranty
+858,858,Asus,Asus ROG Flow X16 2022 GV601RM-M5039WS Gaming Laptop ,211990,83.0,,8,,16,DDR5,,1024.0,6 GB AMD Radeon Radeon 680M, 2560 x 1600 ,Yes,16,Windows 11,1 Year Warranty
+859,859,HP,HP Envy x360 13-bf0078TU Laptop ,80990,64.0,12th,10,12,8,LPDDR4x,Intel Core i5 1230U,512.0,Intel Iris X Graphics, 1920 x 1080 ,Yes,13.3,Windows 11,1 Year Warranty
+860,860,Asus,Asus ROG Zephyrus G14 GA402RJZ-L4136WS Gaming Laptop ,156990,81.0,6th,8,16,16,DDR5,AMD Ryzen 9  6900HS​,1024.0,8 GB AMD Radeon RX 6700S, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+861,861,Asus,Asus ROG Flow X16 2022 GV601RM-M6055WS Gaming Laptop ,171990,81.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800HS,1024.0,6 GB NVIDIA GeForce RTX 3060, 2560 x 1600 ,Yes,16,Windows 11,1 Year Warranty
+862,862,Huawei,Huawei MateBook X Pro 2022 Laptop ,113999,64.0,12th,12,16,16,LPDDR5,Intel Core i7 1260P,512.0,Intel Iris Xe, 3120 x 2080 ,Yes,14.2,Windows 11,1 Year Warranty
+863,863,Lenovo,Lenovo V14 Gen 2 82KAA002IH Laptop ,47199,,11th,4,8,8,,Intel Core i5 1135G7,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+864,864,Lenovo,Lenovo V15 G2-ITL Business Laptop ,51499,,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+865,865,Lenovo,Lenovo Ideapad Flex 5 82R700ASIN Laptop ,60990,61.0,12th,6,8,8,LPDDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+866,866,Lenovo,Lenovo ThinkBook 13s ITL Gen 2 20V9A036IH Laptop ,84999,64.0,11th,4,8,16,LPDDR4,Intel Core i7 1165G7,512.0,Intel Integrated Iris Xe, 2560 x 1600 ,No,13,Windows 11,1 Year Warranty
+867,867,Avita,Avita Pura E NS14A6 Laptop ,29950,,10th,2,4,8,,Intel Core i3 10110U,256.0,Intel UHD Graphics 620, 1920 x 1080 ,No,14,Windows 10,1 Year Warranty
+868,868,MSI,MSI Gaming Katana GF76 11SC-847IN Laptop ,61380,70.0,11th,6,12,8,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce GTX1650, 1920 x 1080 ,No,17.3,Windows 11,2 Year Warranty
+869,869,Lenovo,Lenovo Yoga Slim 7 Pro 82NC00FRIN Laptop ,69990,61.0,11th,4,8,16,LPDDR4x,Intel Core i5 11320H,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,No,14,Windows 11,1 Year Warranty
+870,870,MSI,MSI Katana GF66 12UE-1001IN Gaming Laptop ,86990,70.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,2 Year Warranty
+871,871,Lenovo,Lenovo IdeaPad Gaming 3 82K1019BIN Laptop ,68990,70.0,11th,4,8,16,DDR4,Intel Core i5 11300H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+872,872,Asus,Asus ROG Flow X13 GV301RC-LJ073WS Gaming Laptop ,131990,79.0,6th,8,16,16,LPDDR5,AMD Ryzen 9 6900HS​,1024.0,4 GB ‎NVIDIA GeForce RTX 3050, 1920 x 1200 ,Yes,13.4,Windows 11,1 Year Warranty
+873,873,AGB,AGB Octev GA-9009 Gaming Laptop ,65000,60.0,11th,4,8,16,DDR4,Intel Core i7 1165G7,1024.0,2 GB NVIDIA Geforce MX450, 1920 x 1080 ,No,15.6,Windows 10,1 Year Warranty
+874,874,Gigabyte,Gigabyte Aorus 5 SE4 Gaming Laptop ,144990,74.0,12th,14,20,16,DDR4,Intel Core i7 12700H,,8 GB NVIDIA GeForce RTX 3070, 2560 x 1440 ,No,15.6,Windows 11 ,2 Year Warranty
+875,875,Lenovo,Lenovo V14-IGL ‎82C2S02K00 Laptop ,24999,,,2,2,4,DDR4,,256.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+876,876,Asus,Asus ROG Flow X13 GV301RE-LJ156WS Gaming Laptop ,151990,80.0,6th,8,16,32,LPDDR5,AMD Ryzen 9 6900HS​,1024.0,4 GB ‎NVIDIA GeForce RTX 3050 Ti, 1920 x 1200 ,Yes,13.4,Windows 11,1 Year Warranty
+877,877,Lenovo,Lenovo Ideapad Flex 5 14IAU7 82R7006EIN Laptop ,60990,60.0,12th,6,8,8,LPDDR4,Intel Core i3 1215U,512.0,Intel Integrated UHD, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+878,878,Lenovo,Lenovo IdeaPad Gaming 3 82SA00B2IN Laptop ,111000,75.0,12th,14,20,16,DDR4,Intel Core i7 12700H,512.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+879,879,Lenovo,Lenovo V15 Gen 2 Laptop ,38999,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15,Windows 11,1 Year Warranty
+880,880,Gigabyte,Gigabyte Aero 5 KE4 OLED Laptop ,140900,78.0,12th,14,20,16,DDR4,Intel Core i7 12700H,1024.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11 ,2 Year Warranty
+881,881,Acer,Acer Nitro 5 AN515-45 NH.QCLSI.004 Gaming Laptop ,89900,66.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+882,882,Lenovo,Lenovo V15 82KDA01DIH Laptop ,32999,61.0,5th,4,8,8,DDR4,AMD Ryzen 3 5300U,256.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+883,883,Lenovo,Lenovo IdeaPad Slim 5 82LN00JSIN Laptop ,64469,67.0,5th,8,16,16,DDR4,AMD Ryzen 7  5700U,512.0,AMD Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+884,884,MSI,MSI Creator Pro M16 A12UIS-634IN Gaming Laptop ,97900,79.0,12th,14,20,16,DDR4,Intel Core i7 12700H,1024.0,4 GB NVIDIA GeForce RTX A1000, 2560 x 1660 ,No,16,Windows 11,2 Year Warranty
+885,885,MSI,MSI Vector GP76 12UGSO-868IN Gaming Laptop ,165990,81.0,12th,14,20,16,DDR5,Intel Core i7 12700H,1024.0,8 GB NVIDIA GeForce RTX 3070 Ti, 1920 x 1080 ,No,17.3,Windows 11,2 Year Warranty
+886,886,MSI,MSI Creator M16 A12UD-633IN Laptop ,94990,78.0,12th,14,20,16,DDR4,Intel Core i7 12700H,512.0,4 GB NVIDIA GeForce RTX 3050 Ti, 2560 x 1660 ,No,16,Windows 11,2 Year Warranty
+887,887,MSI,MSI Raider GE77HX 12UHS-205IN Gaming Laptop ,299990,85.0,12th,16,24,32,DDR5,Intel Core i9 12900HX,2048.0,16 GB NVIDIA GeForce RTX 3080 Ti, 3840 x 2160 ,No,17.3,Windows 11,2 Year Warranty
+888,888,Lenovo,Lenovo Legion 5 Pro 16IAH7H 82RF00MGIN Gaming Laptop ,164990,80.0,12th,14,20,16,DDR5,Intel Core i7 12700H,1024.0,6 GB NVIDIA GeForce RTX 3060, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+889,889,Asus,Asus ROG Zephyrus G14 GA402RJ-L8069WS Gaming Laptop ,171990,84.0,6th,8,16,16,DDR5,AMD Ryzen 9  6900HS​,1024.0,8 GB AMD Radeon RX 6700S, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+890,890,Asus,Asus VivoBook Pro 15 OLED K6500ZC-L502WS Laptop ,84990,72.0,12th,8,12,16,LPDDR5,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+891,891,Acer,Acer Aspire 7 A715-51G NH.QGCSI.001 Gaming Laptop ,65990,73.0,12th,12,16,8,DDR4,Intel Core i5 1240P,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+892,892,Lenovo,Lenovo V15 G2 82KDA00UIH Laptop ,32900,,5th,4,8,4,DDR4,AMD Ryzen 3 5300U,512.0,AMD Radeon Graphic, 1920 x 1080 ,No,15.6,DOS,1 Year Warranty
+893,893,Lenovo,Lenovo IdeaPad 3 15ITL6 82H802KYIN Laptop ,52990,,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+894,894,Lenovo,Lenovo E41-55 82FJ00AGIH Laptop ,19999,,,2,4,4,DDR4,,256.0,AMD Radeon RADEON, 1920 x 1080 ,No,14,DOS,1 Year Warranty
+895,895,Asus,Asus Vivobook S14 Flip 2022 TN3402QA-LZ501WS Laptop ,62646,,5th,6,12,16,DDR4,AMD Ryzen 5  5600H,512.0,AMD Radeon Graphics, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+896,896,Lenovo,Lenovo IdeaPad Gaming 3 15IAH7 82S900R6IN Laptop ,74990,74.0,12th,8,12,16,DDR4,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+897,897,Lenovo,Lenovo IdeaPad Slim 3 81X800LCIN Laptop ,33990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,256.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+898,898,Lenovo,Lenovo Legion 5 15ACH6 82JU018YIN Gaming Laptop ,104990,74.0,5th,8,16,16,DDR4,AMD Ryzen 7  5800H,512.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+899,899,Lenovo,Lenovo V14-IGL Laptop ,21499,,,2,2,4,DDR4,,1024.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+900,900,HP,HP Pavilion x360 14-ek0074TU Laptop ,74490,67.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Integrated Iris Xe, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+901,901,Dell,Dell Inspiron 3525 D560789WIN9S Laptop ,51480,67.0,5th,6,12,8,DDR4,AMD Ryzen 5 5625U,512.0,AMD Radeon Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+902,902,HP,HP 14s-dy2508TU Laptop ,38990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+903,903,Asus,Asus VivoBook Pro 15 OLED K6500ZE-L501WS Laptop ,89990,68.0,12th,8,12,16,LPDDR5,Intel Core i5 12450H,512.0,4 GB NVIDIA GeForce RTX 3050Ti, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+904,904,Lenovo,Lenovo IdeaPad Gaming 3 82K201UEIN Laptop ,55990,68.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+905,905,Dell,Dell Inspiron 7420 D560828WIN9S Laptop ,82350,,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+906,906,Asus,Asus TUF Gaming A17 2022 FA777RE-HX024WS Laptop ,102990,70.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800H,1024.0,4 GB NVIDIA GeForce RTX RTX 3050, 1920 x 1080 ,No,17.3,Windows 11,1 Year Warranty
+907,907,Lenovo,Lenovo ThinkBook 15 21A4A08XIH Laptop ,34480,,5th,4,8,8,DDR4,AMD Ryzen 3 5300U,512.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+908,908,Gigabyte,Gigabyte Aorus 15 XE4 Gaming Laptop ,179990,81.0,12th,14,20,16,DDR4,Intel Core i7 12700H,1024.0,8 GB NVIDIA GeForce RTX 3070Ti, 2560 x 1440 ,No,15.6,Windows 11 ,2 Year Warranty
+909,909,Gigabyte,Gigabyte Aorus 15 XE5 Gaming Laptop ,184900,81.0,12th,14,20,16,DDR4,Intel Core i7 12700H,1024.0,8 GB NVIDIA GeForce RTX 3070Ti, 2560 x 1440 ,No,15.6,Windows 11 ,2 Year Warranty
+910,910,MSI,MSI Modern 14 B5M-242IN Laptop ,43850,,5th,6,12,8,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon Radeon, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+911,911,Asus,Asus ROG Zephyrus G15 2022 GA503RM-HQ030WS Gaming Laptop ,161990,83.0,6th,8,16,16,DDR5,AMD Ryzen 9  6900HS​,1024.0,6 GB NVIDIA GeForce RTX 3060, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+912,912,HP,HP Spectre x360 16-f1009TX Laptop ,174490,73.0,12th,12,16,16,LPDDR4x,Intel Core i7 1260P,1024.0,4 GB Intel Arc A370M 4GB VRAM Graphics, 3840 x 2400 ,Yes,16,Windows 11,1 Year Warranty
+913,913,HP,HP Victus 15-fb0053AX Gaming Laptop ,77849,70.0,5th,8,16,16,DDR4,AMD Ryzen 7 5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+914,914,Dell,Dell G15-5521 SE D560738WIN9B Laptop ,149990,84.0,12th,14,20,16,DDR5,Intel Core i7 12700H,1024.0,6 GB NVIDIA GeForce RTX 3060, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+915,915,Asus,Asus ProArt StudioBook Pro 16 H7600ZM-L901WS Laptop ,179990,86.0,12th,14,20,16,DDR5,Intel Core i9 12900H,1024.0,6 GB NVIDIA GeForce RTX 3060, 3840 x 2400 ,No,16,Windows 11,1 Year Warranty
+916,916,MSI,MSI GT77 Titan 12UHS-054IN Gaming Laptop ,499990,,12th,16,24,64,DDR5,Intel Core i9 12900HX,2048.0,16 GB NVIDIA GeForce RTX 3080Ti, 3840 x 2160 ,No,17.3,Windows 11,2 Year Warranty
+917,917,Asus,Asus ProArt StudioBook Pro 16 OLED H7600ZW-L911W Laptop ,239990,,12th,14,20,32,DDR5,Intel Core i9 12900H,1024.0,8 GB NVIDIA GeForce RTX 3070, 3840 x 2400 ,No,16,Windows 11,1 Year Warranty
+918,918,Asus,Asus ProArt StudioBook Pro 16 H7600ZW-L711WS Laptop ,219990,,12th,14,20,32,DDR5,Intel Core i7 12700H,1024.0,8 GB NVIDIA GeForce RTX 3070 Ti, 3840 x 2400 ,No,16,Windows 1,1 Year Warranty
+919,919,Asus,Asus ProArt StudioBook Pro 16 OLED H7600ZM-L701WS Laptop ,195600,87.0,12th,14,20,16,DDR5,Intel Core i7 12700H,1024.0,6 GB NVIDIA GeForce RTX 3060, 3840 x 2400 ,No,16,Windows 11,1 Year Warranty
+920,920,Gigabyte,Gigabyte Aorus 5 KE4 Gaming Laptop ,164000,79.0,12th,14,20,16,DDR4,Intel Core i7 12700H,1024.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11 ,2 Year Warranty
+921,921,Asus,Asus TUF Gaming F15 FX506LHB-HN374WS Gaming Laptop ,70090,,10th,4,8,16,DDR4,Intel Core i5 10300H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11 ,1 Year Warranty
+922,922,Dell,Dell Latitude 3420 Laptop ,35999,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel UHD Graphics, 1366 x 768 ,No,14,Ubuntu,1 Year Warranty
+923,923,Dell,Dell XPS 9720 Laptop,272490,,12th,14,20,16,DDR5,Intel Core i7 12700H,1024.0,6 GB NVIDIA GeForce RTX 3060, 3840 x 2400 ,Yes,17,Windows 11,1 Year Warranty
+924,924,Dell,Dell Latitude 3420 Laptop ,33990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,256.0,Intel Integrated, 1366 x 768 ,No,14,Ubuntu,1 Year Warranty
+925,925,Dell,Dell Latitude 3420 Laptop ,38050,,11th,2,4,16,,Intel Core i3 1115G4,256.0,Intel UHD Graphics, 1366 x 768 ,No,14,Ubuntu,1 Year Warranty
+926,926,HP,HP Envy x360 13-bf0059TU Laptop ,103990,67.0,12th,10,12,16,LPDDR4x,Intel Core i7 1250U,512.0,Intel Iris X Graphics, 2880 x 1800 ,Yes,13.3,Windows 11,1 Year Warranty
+927,927,Asus,Asus ROG Zephyrus G15 2022 GA503RM-HQ057WS Gaming Laptop ,161990,84.0,6th,8,16,16,DDR5,AMD Ryzen 9  6900HS​,1024.0,6 GB AMD Radeon Radeon, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+928,928,Lenovo,Lenovo IdeaPad Gaming 3 15ACH6 82K201Y8IN Laptop ,76990,71.0,5th,8,16,8,DDR4,AMD Ryzen 7  5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+929,929,Acer,Acer Aspire 3 A314-35 UN.K0SSI.030 Laptop ,26490,,,4,4,4,DDR4,,256.0,Intel Integrated UHD Graphics, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+930,930,Dell,Dell Inspiron 3525 D560831WIN9SE Laptop ,39700,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,256.0,AMD Radeon AMD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+931,931,Asus,Asus TUF Gaming A15 2022 FA577RM-HF031WS Gaming Laptop ,109990,80.0,6th,8,16,16,DDR5,AMD Ryzen 7 6800H,1024.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+932,932,HP,HP Spectre x360 13-ef0054TU Laptop ,147499,74.0,12th,14,20,16,LPDDR4x,Intel Core i7 12700H,1024.0,Intel Iris Xe Graphics, 3000 x 2000 ,Yes,13.5,Windows 11,1 Year Warranty
+933,933,HP,HP Victus 16-e1061AX Gaming Laptop ,88990,70.0,6th,8,16,8,DDR5,AMD Ryzen 7  6800H,512.0,4 GB NVIDIA GeForce RTX 3050 Ti, 1920 x 1080 ,No,16.1,Windows 11,1 Year Warranty
+934,934,Dell,Dell Vostro 3425 D552305WIN9BE Laptop ,36490,,5th,4,8,8,DDR4,AMD Ryzen 3  5425U,256.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+935,935,Lenovo,Lenovo Ideapad Slim 3 82H802KVIN Laptop ,49990,,11th,4,8,8,DDR4,Intel Core i5 1135G7,512.0,Intel Iris XE Graphic, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+936,936,Lenovo,Lenovo IdeaPad Gaming 3 82K201YCIN Laptop ,56135,70.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+937,937,Asus,Asus VivoBook 14 X415EA-EK322WS Notebook ,37990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated Intel UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+938,938,Dell,Dell Vostro 3425 D552309WIN9BE Laptop ,43490,60.0,5th,4,8,8,DDR4,AMD Ryzen 3  5425U,512.0,AMD Radeon AMD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+939,939,Asus,Asus ROG Strix G15 2022 G513RS-HQ024WS Gaming Laptop ,187990,81.0,6th,8,16,16,DDR5,AMD Ryzen 9  6900HX,1024.0,8 GB NVIDIA GeForce RTX 3080, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+940,940,Asus,Asus ROG Strix G15 2022 G513RW-HQ149WS Gaming Laptop ,174990,81.0,6th,8,16,16,DDR5,AMD Ryzen 9  6900HX,1024.0,8 GB NVIDIA GeForce RTX 3070 Ti, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+941,941,Dell,Dell XPS 9720 Gaming Laptop ,384746,89.0,12th,14,20,32,DDR5,Intel Core i9 12900HK,1024.0,6 GB NVIDIA GeForce RTX 3060, 3840 x 2400 ,Yes,17,Windows 11,1 Year Warranty
+942,942,Dell,Dell Alienware X17 R2 D569943WIN9 Gaming Laptop ,300490,,12th,14,20,32,LPDDR5,Intel Core i7 12700H,1024.0,8 GB NVIDIA GEFORCE RTX 3070 Ti, 1920 x 1080 ,No,17.3,Windows 11,1 Year Warranty
+943,943,Lenovo,Lenovo IdeaPad Slim 3 82RK00EDIN Laptop ,57999,,12th,10,12,8,,Intel Core i5 1235U,512.0,‎Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+944,944,Asus,Asus ROG Strix G15 2022 G513RW-HQ137WS Gaming Laptop ,174990,83.0,6th,8,16,16,DDR5,AMD Ryzen 9  6900HX,1024.0,8 GB NVIDIA GeForce RTX 3070 Ti, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+945,945,Infinix,Infinix INBook X1 Neo Laptop ,21990,,,4,,4,LPDDR4X,,128.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+946,946,Asus,Asus ROG Strix G15 G513RM-HF328WS Gaming Laptop ,132990,79.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800H,1024.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+947,947,HP,HP Pavilion 15s-FR5007TU Laptop ,56999,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+948,948,Asus,Asus TUF Dash F15 2022 FX517ZC-HN108WS Gaming Laptop ,101990,75.0,12th,10,16,16,DDR5,Intel Core i7 12650H,1024.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+949,949,Panasonic,Panasonic Toughbook 40 Laptop ,374990,71.0,11th,4,8,8,DDR4,Intel Core i5 1145G7 vPro,512.0,, 1920 x 1080 ,Yes,14,Windows 11,1 Year Warranty
+950,950,HP,HP 15s-eq1561AU Laptop ,34500,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,256.0,AMD Radeon Radeon, 1366 x 768 ,No,15.6,Windows 11,1 Year Warranty
+951,951,Asus,Asus ROG Zephyrus M16 GU603ZM-K8034WS Laptop ,174990,84.0,12th,14,20,16,DDR5,Intel Core i7 12700H,512.0,6 GB ‎NVIDIA GeForce RTX 3060, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+952,952,Asus,Asus TUF Gaming F15 FX506HC-HN119W Gaming Laptop ,84990,65.0,11th,6,12,8,DDR4,Intel Core i5 11400H,1024.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+953,953,HP,HP Victus 15-fa0351TX Laptop ,88677,60.0,12th,10,16,8,DDR4,Intel Core i7 12650H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+954,954,HP,HP Victus 15-fb0050AX Gaming Laptop ,65990,71.0,5th,6,12,8,DDR4,AMD Ryzen 5  5600H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+955,955,Lenovo,Lenovo IdeaPad Flex 5 82R9008GIN Laptop ,62500,68.0,5th,6,12,16,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+956,956,Lenovo,Lenovo Thinkpad P15s 20W7S1H800 Laptop ,165000,75.0,11th,4,8,32,DDR4,Intel Core i7 1165G7,1024.0,4 GB  Nvidia Quadro T500, 1920 x 1080 ,No,15.6,Windows 10,3 Year Warranty
+957,957,HP,HP 14s-dq3037tu Laptop ,27590,,,2,,8,DDR4,,256.0,Intel Integrated UHD Graphics, 1366 x 768 ,No,14,Windows 11 ,1 Year Warranty
+958,958,Asus,Asus ROG Strix G15 G513QR-HF302WS Gaming Laptop ,146990,80.0,5th,8,16,16,DDR4,AMD Ryzen 7  5800H,1024.0,8 GB NVIDIA GeForce RTX 3070, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+959,959,Lenovo,Lenovo IdeaPad Slim 3 81X800LAIN Laptop ,40699,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+960,960,HP,HP Pavilion x360 14-ek0088TU Laptop ,89990,61.0,12th,10,12,16,DDR4,Intel Core i7 1255U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+961,961,HP,HP Pavilion x360 14-dy0212TU Laptop ,43990,,11th,4,8,8,DDR4,Intel Core i3 1125G4,256.0,Intel Integrated Iris Xe Graphics, 1366 x 768 ,Yes,14,Windows,1 Year Warranty
+962,962,Acer,Acer Aspire 3 A314-22 NX.HVVSI.007 Laptop ,29790,,,2,2,4,DDR4,,1024.0,AMD Radeon AMD, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+963,963,Asus,Asus Vivobook Pro 15 OLED M6500IH-L1701WS Laptop ,65990,67.0,4th,8,16,16,DDR4,AMD Ryzen 7  4800H,512.0,4 GB NVIDIA GeForce GTX 1650 Max Q, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+964,964,Asus,Asus Vivobook S14 Flip 2022 TN3402QA-LZ511WS Laptop ,65990,65.0,5th,6,12,16,DDR4,AMD Ryzen 5  5600H,512.0,AMD Radeon Graphics, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+965,965,Asus,Asus Vivobook 15 2022 X1502ZA-EJ302WS Laptop ,41950,,12th,10,12,8,DDR4,Intel Core i3 1220P,256.0,Intel Iris Xe, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+966,966,MSI,MSI Thin GF63 11UC-866IN Gaming Laptop ,67990,68.0,11th,8,16,8,DDR4,Intel Core i7 11800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 10,2 Year Warranty
+967,967,Microsoft,Microsoft Surface Laptop 4 5AI-00121 13.5 inch ,125890,,11th,4,8,16,,Intel Core i5 1135G7,512.0,Intel Iris Xᵉ Graphics, 2256 x 1504 ,Yes,13.5,Windows 11,Backlit Keyboard
+968,968,HP,HP 15s-ey1508AU Laptop ,32990,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,256.0,AMD Radeon Radeon, 1366 x 768 ,No,15.6,Windows 11,1 Year Warranty
+969,733,Asus,Asus Vivobook 15 K513EA-L703WS Laptop ,76990,,11th,4,8,8,DDR4,Intel Core i7 1165G7,1024.0,AMD Radeon Radeon Graphics, 1920 x 1080 ,No,15.6,Windows 11,
+970,970,Dell,Dell Vostro 5625 laptop ,71590,60.0,5th,8,16,16,DDR4,AMD Ryzen 7 5825U,512.0,AMD Radeon, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+971,971,Lenovo,Lenovo IdeaPad Slim 3 82KU017EIN Laptop ,44252,64.0,5th,6,12,8,DDR4,AMD Ryzen 5  5500U,512.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+972,972,HP,HP 14s-dy2507TU Laptop ,36490,,11th,2,4,8,DDR4,Intel Core i3 1115G4,256.0,Intel Integrated UHD Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+973,973,Lenovo,Lenovo Ideapad Gaming 3 82K201UKIN Laptop ,79900,66.0,5th,8,16,8,DDR4,AMD Ryzen 7  5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+974,974,Fujitsu,Fujitsu CH FPC02548LK Laptop ,59990,61.0,11th,4,8,16,LPDDR4X,Intel Core i5 1135G7,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,13.3,Windows 11,1 Year Warranty
+975,975,Lenovo,Lenovo IdeaPad Slim 5 82SF008WIN Laptop ,79990,66.0,12th,10,12,16,DDR4,Intel Core i7 1255U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+976,976,Lenovo,Lenovo Ideapad Gaming 3 82K201UMIN Laptop ,80990,66.0,5th,8,16,16,DDR4,AMD Ryzen 7  5800H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+977,977,Lenovo,Lenovo IdeaPad 3 82RK0064IN Laptop ,56990,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+978,978,Asus,Asus Vivobook Pro 15 M3500QC-L901WS Gaming Laptop ,92990,,5th,8,16,16,DDR4,AMD Ryzen 9  5900HX,1024.0,4 GB NVIDIA GeForce RTX RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+979,979,HP,HP Victus 15-fa0073TX Laptop ,83990,60.0,12th,10,16,8,DDR4,Intel Core i7 12650H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+980,980,HP,HP Pavilion 14-eh0021TU Laptop ,82900,65.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,Intel Iris Xe Graphics, 2240 x 1400 ,No,14,Windows 11,1 Year Warranty
+981,981,HP,HP Pavilion 14-eh0025TU Laptop ,79889,64.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,Intel Iris Xe Graphics, 2240 x 1400 ,No,14,Windows 11,1 Year Warranty
+982,982,Lenovo,Lenovo IdeaPad 3 14ITL6 82H701DYIN Laptop ,38990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+983,983,Dell,Dell Alienware M15 ICC-C780001WIN8 Laptop ,146899,68.0,5th,8,16,16,DDR4,AMD Ryzen 7  5800H,512.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1080 ,No,15.6,Windows 11 ,1 Year Warranty
+984,984,HP,HP Spectre X360 16-f1003TU Laptop ,141499,75.0,12th,14,20,16,DDR4,Intel Core i7 12700H,512.0,Intel Iris X Graphics, 3072 x 1920 ,Yes,16,Windows 11,1 Year Warranty
+985,985,LG,LG Gram 16Z90Q-G.AJ54A2 Laptop ,87990,66.0,12th,12,16,8,LPDDR5,Intel Core i5 1240P,512.0,Intel Iris Xe Graphics, 1600 x 2560 ,Yes,16,Windows 11,1 Year Warranty
+986,986,Lenovo,Lenovo Yoga 7 Flip 82QE009SIN Laptop ,121666,70.0,12th,12,16,16,LPDDR5,Intel Core i7 1260P,512.0,Intel Iris Xe Graphics, 2880 x 1800 ,Yes,14,Windows 11,1 Year Warranty
+987,987,Asus,Asus TUF Gaming F15 FX506HC-HN362WS Gaming Laptop ,88800,72.0,11th,6,12,16,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+988,988,Acer,Acer Aspire 7 A715-5G UN.QGBSI.002 Gaming Laptop ,61990,64.0,12th,12,16,16,,Intel Core i5 1240P,512.0,4 GB NVIDIA GeForce GTX 1650, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+989,989,Asus,Asus ROG Flow X13 GV301RE-LJ199WS Gaming Laptop ,147990,81.0,6th,8,16,32,LPDDR5,AMD Ryzen 7  6800HS,1024.0,4 GB NVIDIA GeForce RTX 3050 Ti, 1920 x 1200 ,Yes,13.4,Windows 11,1 Year Warranty
+990,990,Asus,Asus ROG Zephyrus G14 2022 GA402RK-L8148WS Gaming Laptop ,176990,86.0,6th,8,16,32,DDR5,AMD Ryzen 9  6900HS​,1024.0,8 GB AMD Radeon RX 6800S, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+991,991,Asus,Asus ROG Zephyrus Duo 16 2022 GX650RXZ-LO227WS Gaming Laptop ,391990,,6th,8,16,32,DDR5,AMD Ryzen 9  6900HX,2048.0,16 GB NVIDIA GeForce RTX 3080 Ti, 2560 x 1600 ,No,16,Windows 11,1 Year Warranty
+992,992,Asus,Asus ROG Flow X16 2022 GV601RE-M6012WS Gaming Laptop ,151990,81.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800HS,1024.0,4 GB NVIDIA GeForce RTX 3050 Ti, 2560 x 1600 ,Yes,16,Windows 11,1 Year Warranty
+993,993,Asus,Asus ROG Zephyrus G15 2022 GA503RW-LN067WS Gaming Laptop ,179990,85.0,6th,8,16,16,DDR5,AMD Ryzen 9  6900HS​,1024.0,8 GB NVIDIA GeForce RTX 3070, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+994,994,Asus,Asus ROG Zephyrus G14 GA402RJZ-L4134WS Gaming Laptop ,131000,77.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800HS,1024.0,8 GB AMD Radeon RX 6700S, 1920 x 1200 ,No,14,Windows 11,1 Year Warranty
+995,995,Asus,Asus ROG Zephyrus G14 GA402RJ-L8182WS Gaming Laptop ,152990,79.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800HS,1024.0,8 GB AMD Radeon RX 6700S, 2560 x 1600 ,No,14,Windows 11,1 Year Warranty
+996,996,Asus,Asus ROG Zephyrus Duo 16 2022 GX650RXZ-LB226WS Gaming Laptop ,398589,,6th,8,16,32,DDR5,AMD Ryzen 9  6900HX,2048.0,16 GB NVIDIA GeForce RTX 3080 Ti, 3840 x 2400 ,No,16,Windows 11,1 Year Warranty
+997,997,Asus,Asus ROG Flow X13 GV301RE-LI201WS Gaming Laptop ,157900,83.0,6th,8,16,32,LPDDR5,AMD Ryzen 7  6800HS,1024.0,4 GB NVIDIA GeForce RTX 3050 Ti, 3840 x 2400 ,Yes,13.4,Windows 11,1 Year Warranty
+998,998,Asus,Asus ROG Zephyrus Duo 16 GX650RMZ-LS019WS Gaming Laptop ,224990,85.0,6th,8,16,32,DDR5,AMD Ryzen 7  6800H,2048.0,6 GB NVIDIA GeForce RTX 3060, 1920 x 1200 ,No,16,Windows 11,1 Year Warranty
+999,999,Asus,Asus ROG Zephyrus G15 2022 GA503RM-HQ142WS Gaming Laptop ,140990,83.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800HS,1024.0,6 GB NVIDIA GeForce RTX 3060, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+1000,1000,Asus,Asus ROG Zephyrus G15 2022 GA503RM-HQ111WS Gaming Laptop ,145979,83.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800HS,1024.0,6 GB NVIDIA GeForce RTX 3060, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+1001,1001,Asus,Asus ROG Flow X16 2022 GV601RM-M6054WS Gaming Laptop ,171990,81.0,6th,8,16,16,DDR5,AMD Ryzen 7  6800HS,1024.0,6 GB NVIDIA GeForce RTX 3060, 2560 x 1600 ,Yes,16,Windows 11,1 Year Warranty
+1002,1002,Asus,Asus ROG Flow X13 GV301RA-LJ031WS Gaming Laptop ,94990,72.0,6th,8,16,16,LPDDR5,AMD Ryzen 7  6800HS,1024.0,AMD Radeon AMD, 1920 x 1200 ,Yes,13.4,Windows 11,1 Year Warranty
+1003,1003,Asus,Asus ROG Zephyrus G15 GA503RW-LN066WS Gaming Laptop ,179990,85.0,6th,8,16,16,DDR5,AMD Ryzen 9  6900HS​,1024.0,8 GB NVIDIA GeForce RTX 3070Ti, 2560 x 1440 ,No,15.6,Windows 11,1 Year Warranty
+1004,1004,HP,HP 15s-fr2514TU Laptop ,37990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,256.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+1005,1005,MSI,MSI Thin GF63 11UC-867IN Gaming Laptop ,62990,66.0,11th,6,12,8,DDR4,Intel Core i5 11400H,512.0,4 GB NVIDIA GeForce RTX 3050, 1920 x 1080 ,No,15.6,Windows 10,2 Year Warranty
+1006,1006,HP,HP Pavilion x360 14-ek0078TU Laptop ,72990,,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1080 ,No,14,Windows 11,1 Year Warranty
+1007,1007,Dell,Dell Inspiron 7620 Laptop ,88750,,12th,10,12,8,DDR4,Intel Core i5 1235U,512.0,Intel Iris Xe Graphics, 1920 x 1200 ,Yes,16,Windows 11,1 Year Warranty
+1008,1008,Asus,Asus Vivobook Flip 14 TP3402ZA-LZ511WS Laptop ,79990,70.0,12th,12,16,16,DDR4,Intel Core i5 12500H,512.0,Intel Integrated Iris Xe Graphics, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+1009,1009,Asus,Asus Zenbook Flip 14 OLED UP5401ZA-KN501WS Laptop ,89990,64.0,12th,12,16,16,LPDDR5,Intel Core i5 12500H,512.0,Intel Integrated Iris Xe, 2880 x 1800 ,Yes,14,Windows 11,1 Year Warranty
+1010,1010,Asus,Asus Vivobook Flip 14 TP3402ZA-LZ501WS Laptop ,74990,61.0,12th,12,16,8,DDR4,Intel Core i5 12500H,512.0,Intel Integrated Iris Xe, 1920 x 1200 ,Yes,14,Windows 11,1 Year Warranty
+1011,1011,Asus,Asus Zenbook Flip 14 OLED UP5401ZA-KN701WS Laptop ,104990,74.0,12th,14,20,16,LPDDR5,Intel Core i7 12700H,512.0,Intel Integrated Iris Xe, 2880 x 1800 ,Yes,14,Windows 11,1 Year Warranty
+1012,1012,Asus,Asus TUF Gaming A17 FA706IC-HX036W Laptop ,67990,67.0,4th,8,16,8,DDR4,AMD Ryzen 7  4800H,512.0,4 GB NVIDIA GeForce RTX RTX 3050, 1920 x 1080 ,No,17.3,Windows 11,1 Year Warranty
+1013,1013,HP,HP 15s-fq2672TU Laptop ,39990,60.0,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+1014,1014,HP,HP 15s-fq2674TU Laptop ,40990,,11th,2,4,8,DDR4,Intel Core i3 1115G4,512.0,Intel Integrated UHD, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+1015,796,Dell,Dell Inspiron 3520 D560879WIN9S Laptop ,65990,66.0,12th,10,12,16,DDR4,Intel Core i5 1235U,512.0,Intel UHD Graphics, 1920 x 1080 ,No,15.6,Windows 11,
+1016,1016,HP,HP 15s-er1501AU Laptop ,30990,,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,256.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+1017,1017,HP,HP 14s-fq0568AU Laptop ,27490,,3rd,2,2,8,DDR4,AMD Athlon  3050U,256.0,AMD Radeon AMD, 1366 x 768 ,No,14,Windows 11,1 Year Warranty
+1018,1018,HP,HP 15s-eq1560AU Laptop ,36999,60.0,3rd,2,4,8,DDR4,AMD Ryzen 3  3250U,512.0,AMD Radeon, 1920 x 1080 ,No,15.6,Windows 11,1 Year Warranty
+1019,1019,Lenovo,Lenovo Legion 5 Pro 82JD005LIN Gaming Laptop ,192990,74.0,11th,8,16,32,DDR4,Intel Core i7 11800H,1024.0,8 GB NVIDIA GeForce RTX 3070, 2560 x 1440 ,No,16,Windows 11,1 Year Warranty
